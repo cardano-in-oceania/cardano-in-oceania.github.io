@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Coming Soon - Cardano in Oceania</title>
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+
+    html, body {
+      margin: 0;
+      padding: 0;
+      height: 100%;
+      background: linear-gradient(135deg, #0f1b40, #0c3976);
+      color: white;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+    .page-wrapper {
+      display: flex;
+      flex-direction: column;
+      height: 100vh;
+    }
+
+    .header {
+      display: flex;
+      justify-content: center;
+      padding-top: 60px;
+      padding-bottom: 30px;
+    }
+
+    .logo {
+      width: 160px;
+      max-width: 30vw;
+    }
+
+    .content {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      padding: 20px;
+      text-align: center;
+    }
+
+    .message {
+      font-size: clamp(1.2rem, 2.5vw, 2rem);
+      font-weight: 300;
+      margin-bottom: 10px;
+    }
+
+    .highlight {
+      font-size: clamp(2rem, 6vw, 3.3rem);
+      font-weight: bold;
+      background: linear-gradient(to right, #4ea3ec, #6ee7b7);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      display: inline-block;
+    }
+
+    .wave-container {
+      display: flex;
+      justify-content: center;
+      padding-bottom: 10px;
+      padding-top: 10px;
+    }
+
+    .wave-img {
+      width: 220px;
+      max-width: 90%;
+      height: auto;
+      opacity: 0.95;
+    }
+  </style>
+</head>
+<body>
+  <div class="page-wrapper">
+    <div class="header">
+      <img class="logo" src="cardano-logo.png" alt="Cardano Logo">
+    </div>
+
+    <div class="content">
+      <div class="message">Something exciting is coming soon to</div>
+      <div class="highlight">Cardano in Oceania</div>
+    </div>
+
+    <div class="wave-container">
+      <img class="wave-img" src="cio-logo.png" alt="Polynesian Wave">
+    </div>
+  </div>
+</body>
+</html>
