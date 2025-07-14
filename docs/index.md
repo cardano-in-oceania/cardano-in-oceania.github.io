@@ -5,4 +5,4 @@ title: "Welcome"
 
 # Cardano In Oceania
 
-Visit the detailed plan for 2025–2026 [here](/cino-2025-2026/).
+- [Detailed plan for 2025–2026](/cino-2025-2026/).
