@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Cardano in Oceania 2025–2026 (Report)"
+title: "Report"
 permalink: /cino-2025-2026-report/
 ---
 

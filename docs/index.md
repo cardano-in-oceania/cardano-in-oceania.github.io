@@ -7,8 +7,6 @@ title: "Welcome"
 - [Report for 2025–2026](/cino-2025-2026-report/)
 - [Detailed plan for 2025–2026](/cino-2025-2026/)
 
-*Welcome, Cardano DReps — Join Us at the Edge of Impact**
-
 **Gidday, Kia Orana, Tolofa, Bula, Fakalofa lahi at, Nau mai, haere mai\!** 
 
 **Welcome to the first regional Enterprise and Government Strategy from Cardano in Oceania**
@@ -46,4 +44,6 @@ We invite you to:
 We’re calling on DReps who understand that governance is not just about casting votes — it’s about **investing time, attention, and resources where the returns lift communities and ecosystems alike.** Let’s show the world what DReps can do — not just inside the protocol, but in partnership with the people who trust Cardano to deliver.
 
 **Cheers,** Vinaka, Fakaaue, Oue tulou, Meitaki, Ko rab'a, Faka'amu, Kia ora.  
+
+**Join Us at the Edge of Impact**
 
