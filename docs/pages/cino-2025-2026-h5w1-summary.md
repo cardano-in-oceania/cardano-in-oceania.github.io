@@ -94,9 +94,5 @@ Delivery will be structured through an integrated approach:
 
 * **Metrics & Feedback**: Quantitative and qualitative data will drive iteration. Key metrics include wallet growth, participation rates, on-chain activity, and governance impact.
 
-This ensures scalability and fidelity to Cardano’s decentralized ethos.
-
----
-
-Let me know if you’d like this bundled into a Markdown or PDF format.
+This ensures scalability and fidelity to Cardano’s decentralised ethos.
 
