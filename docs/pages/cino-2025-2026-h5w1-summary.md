@@ -1,5 +1,3 @@
-Here are the summaries for **Why** and part of **What** (more available on request):
-
 ---
 layout: page
 title: "5W1H Summary"
