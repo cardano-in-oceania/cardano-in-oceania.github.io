@@ -34,7 +34,7 @@ Because Oceania is:
 
 To date, the teams in Oceania have focused every ounce of funding and energy – including our Project Catalyst projects, into delivery — not promotion. We’ve prioritised outcomes over optics, building credibility through doing, while the rest of the world sleeps. That’s why you may not have seen glossy reports or splashy marketing yet — but the groundwork is solid, the results are real, and now is the time to tell that story.
 
-**This is your chance to help us shape a model for Regional and Vertical investment into Cardano as public goods infrastructure, specifically in enterprise and government, and model ready to ripple worldwide.**
+**This is your chance to help us shape a model for Regional, Enterprise and Government Vertical investment into Cardano as public goods infrastructure, piloting a model ready to ripple worldwide.**
 
 We invite you to:
 
