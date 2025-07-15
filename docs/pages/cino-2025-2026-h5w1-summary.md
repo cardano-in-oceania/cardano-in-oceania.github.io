@@ -36,12 +36,6 @@ To activate Cardano in the region, a dedicated **Business Development & Capacity
 
 ---
 
-Let me know if you’d like me to continue with the remaining sections: **Who**, **When**, **Where**, and **How**. 
-
-Here are the remaining trimmed summaries of the **Who**, **When**, **Where**, and **How** sections:
-
----
-
 ## **Who**
 
 The initiative brings together a diverse group of actors, both established and emerging, across the Cardano and Oceania ecosystems:
