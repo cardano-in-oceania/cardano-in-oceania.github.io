@@ -1,0 +1,12 @@
+<header class="site-header">
+  <a class="site-branding" href="{{ "/" | relative_url }}">
+    <img class="site-logo" src="{{ "/assets/images/cio-logo.png" | relative_url }}" alt="CIO logo">
+    <span class="site-title">{{ site.title }}</span>
+  </a>
+  <button class="menu-toggle" aria-label="Toggle menu">☰</button>
+  <nav class="site-nav">
+    {% for item in site.display_menu %}
+      <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+    {% endfor %}
+  </nav>
+</header>
