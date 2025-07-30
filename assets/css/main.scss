@@ -58,17 +58,16 @@ a {
   color: $text-light;
   cursor: pointer;
 }
-/* Desktop nav */
 .site-nav {
   display: flex;
 }
 .site-nav a {
   margin-left: 1.5rem;
   font-weight: 500;
-  font-size: 1rem;
+  font-size: 0.9rem;
 }
 
-/* Wraps all page content (hero + content) */
+/* Page wrapper: keeps hero and content centered and pushes footer down */
 .page-wrapper {
   flex: 1;
   display: flex;
@@ -85,12 +84,10 @@ a {
   align-items: center;
   width: 100%;
   height: 80vh;
-  padding-top: 4rem; /* drop text below header */
-  text-align: center;
+  padding-top: 4rem; /* drop below header */
   box-sizing: border-box;
+  text-align: center;
 }
-
-/* Hero text block */
 .hero-text {
   display: flex;
   flex-direction: column;
@@ -108,8 +105,6 @@ a {
   font-size: 1.2rem;
   color: $text-muted;
 }
-
-/* Hero wave as a sibling, not absolute */
 .hero__wave {
   width: 100%;
   height: auto;
@@ -117,21 +112,20 @@ a {
 
 /* Unified content styling */
 .content {
-  width: 90%;
-  max-width: 1000px;
-  margin: 4rem auto 4rem;
+  width: 95%;
+  max-width: 960px;
+  margin: 8rem auto 4rem;
   padding: 2rem;
   line-height: 1.6;
-  background: rgba(255, 255, 255, 0.1);
+  background: rgba(255,255,255,0.1);
   border-radius: 8px;
 }
 .content h2 {
-  font-size: 1.6rem;
+  font-size: 1.8rem;
   margin: 1.5rem 0 1rem;
 }
 .content p {
   margin-bottom: 1rem;
-  color: $text-muted;
 }
 .content ul,
 .content ol {
@@ -145,6 +139,49 @@ a {
   margin-top: 1.5rem;
 }
 
+/* Table styling */
+.content table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 2rem;
+}
+/* Center all header cells */
+.content table th {
+  text-align: center;
+  padding: 0.75rem;
+  border-bottom: 2px solid $text-light;
+}
+/* Left-align all body cells */
+.content table td {
+  text-align: left;
+  padding: 0.75rem;
+  border-bottom: 1px solid rgba($text-light, 0.2);
+}
+/* Right-align numeric columns */
+.content table td.numeric,
+.content table td:nth-child(2) {
+  text-align: right;
+}
+/* Center-align third column if needed */
+.content table td:nth-child(3) {
+  text-align: center;
+}
+.content table caption {
+  caption-side: bottom;
+  font-size: 0.9rem;
+  color: $text-muted;
+}
+
+/* Force header cells to center */
+.content table thead th {
+  text-align: center !important;
+}
+
+/* Also in case Kramdown emits <th align="..."> attributes */
+.content table th[align] {
+  text-align: center !important;
+}
+
 /* Footer */
 .site-footer {
   position: relative;
@@ -156,8 +193,13 @@ a {
   padding: 2rem 0;
 }
 
-/* Mobile-friendly menu */
+/* Mobile-friendly menu and responsive adjustments */
 @media (max-width: 768px) {
+  .content {
+    width: 100%;
+    margin: 4rem auto 2rem;
+    padding: 1.5rem;
+  }
   .site-nav {
     display: none;
     position: absolute;
@@ -173,7 +215,7 @@ a {
   }
   .site-nav a {
     padding: 1rem 2rem;
-    border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+    border-bottom: 1px solid rgba(255,255,255,0.2);
   }
   .menu-toggle {
     display: block;
