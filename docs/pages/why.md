@@ -3,7 +3,7 @@ layout: default
 title: Why?
 permalink: /why/
 ---
-# Strategic Rationale: Why Invest in Oceania?
+# Strategic Rationale: Why invest in Oceania?
 Oceania – encompassing Australia, New Zealand, and the Pacific Islands – presents a high-potential region for Cardano’s growth. Several factors make it uniquely attractive:
 
 ## Rising Crypto Adoption

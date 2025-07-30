@@ -3,7 +3,7 @@ layout: default
 title: How?
 permalink: /how/
 ---
-# How are we going to do it?
+# How are we going to implement and verify?
 
 ## Budget Overview 2025–2026
 content
