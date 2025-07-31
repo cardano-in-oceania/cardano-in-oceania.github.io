@@ -5,6 +5,8 @@ permalink: /who/
 ---
 # Experience: Who are we?
 
+<div class="section" markdown="1">
+
 ## Community Leaders
 ### Phil Lewis
 As an active Cardano community member since 2018, Phil has run many in person community events, including meetups and local Cardano Summit events in Perth.  He was selected as a DRep Pioneer Program leader, running an Intersect supported governance workshop last year.
@@ -26,7 +28,8 @@ As an active Cardano community member since 2021, Peter has served as a Delegate
 ### Jo Allum
 Jo ...
 
----
+</div>
+<div class="section" markdown="1">
 
 ## Sponsors & Partners
 ### Vaka Consulting
@@ -35,14 +38,16 @@ Vaka Consulting ...
 ### Venture Centre
 Venture Centre ...
 
----
+</div>
+<div class="section" markdown="1">
 
 ## Supporters & Contributors
 **Scott Collins** – Documentary filmmaker, supporting
 
 **Blane Edwards** – 
 
----
+</div>
+<div class="section" markdown="1">
 
 ## Administrator
 **Selfdriven Services** will be the **Administrator** for this program. A registered Australian business - selfdriven Pty Ltd, selfdriven has a history of coordinating Cardano events and project delivery across Oceania. Responsibilities include:
@@ -64,3 +69,5 @@ Selfdriven Services has substantial business experience across a range of discip
 The Administration team has experience supporting social goals in not for profits, in particular the education space via community organisations. They have developed and managed financial systems to support distributed groups of both paid workers and volunteers, providing them with the tools and support to achieve their outcomes, while ensuring strong governance standards to maintain rigour, traceability and transparency.
 
 **Website:** https://selfdriven.services
+
+</div>

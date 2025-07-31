@@ -33,11 +33,11 @@ a {
   align-items: center;
 }
 .site-logo {
-  height: 50px;
+  height: 75px;
 }
 .site-title {
   margin-left: 0.5rem;
-  font-size: 1.1rem;
+  font-size: 1.5rem;
   font-weight: bold;
 }
 
@@ -64,7 +64,7 @@ a {
 .site-nav a {
   margin-left: 1.5rem;
   font-weight: 500;
-  font-size: 0.9rem;
+  font-size: 1.2rem;
 }
 
 /* Page wrapper: keeps hero and content centered and pushes footer down */
@@ -114,11 +114,14 @@ a {
 .content {
   width: 95%;
   max-width: 960px;
-  margin: 8rem auto 4rem;
+  margin: 4rem auto 4rem;
   padding: 2rem;
   line-height: 1.6;
   background: rgba(255,255,255,0.1);
   border-radius: 8px;
+}
+.content h1 {
+  text-align: center;
 }
 .content h2 {
   font-size: 1.8rem;
@@ -180,6 +183,13 @@ a {
 /* Also in case Kramdown emits <th align="..."> attributes */
 .content table th[align] {
   text-align: center !important;
+}
+
+.section {
+  background: rgba(255,255,255,0.1);
+  padding: 2rem;
+  margin: 3rem auto;
+  border-radius: 8px;
 }
 
 /* Footer */

@@ -4,6 +4,9 @@ title: Why?
 permalink: /why/
 ---
 # Strategic Rationale: Why invest in Oceania?
+
+<div class="section" markdown="1">
+
 Oceania – encompassing Australia, New Zealand, and the Pacific Islands – presents a high-potential region for Cardano’s growth. Several factors make it uniquely attractive:
 
 ## Rising Crypto Adoption
@@ -22,3 +25,5 @@ From agriculture to arts and finance – the region is piloting distributed ledg
 Oceania’s mix of advanced economies (Australia/NZ) and developing island nations makes it an ideal sandbox for scalable Cardano solutions. Successful models proven here – whether in decentralised finance for underbanked communities or traceability for exports – can be refined in a manageable environment and then scaled globally. Moreover, Australia and New Zealand’s strong trade and cultural links to Asia and the West position Oceania as a bridge for Cardano’s global outreach.
 
 **In summary, Oceania combines high crypto literacy, supportive stakeholders, and pressing use-case needs (financial inclusion, transparent trade, etc.) in a region that can showcase Cardano’s impact on a global stage. This strategy capitalizes on those strengths to accelerate ecosystem growth in 2025–2026.**
+
+</div>

@@ -5,6 +5,8 @@ permalink: /what/
 ---
 # Objectives: What do we aim to achieve?
 
+<div class="section" markdown="1">
+
 ## Business Development & Capacity-Building Program
 To unlock Oceania’s potential, we will establish a robust business development (BD) capacity-building track. This program will connect and resource local Cardano advocates to drive adoption, and forge strategic partnerships across the region in government and enterprise vertices – creating a template that can scale globally.
 
@@ -31,7 +33,8 @@ As a practical outcome, the BD team will aim to secure pilot projects in key sec
 ### Milestones & Deliverables – Business Development
 By Q3 2025, the BD Lead will be in place and the first cohort of 5–10 Cardano Oceania BD Fellows enrolled in the training program. By late 2025, we expect the team to have conducted at least two BD bootcamps and engaged 8–10 target organizations across Oceania. KPIs include the number of partnerships/MOUs signed (goal: *3+ formal agreements* by end of 2026), number of entrepreneurs or businesses onboarded to Cardano (goal: *10+*), and the investment pipeline generated (e.g. leads for Cardano-based solutions or Catalyst proposals emerging from the region). This capacity-building track will not only deliver local growth but also serve as a model to be replicated in other regions once refined.
 
----
+</div>
+<div class="section" markdown="1">
 
 ## Ecosystem Activation: Mapping & Community Network
 To accelerate the delivery of Cardano products and services in Oceania, we will launch an Ecosystem Activation stream focused on mapping the community landscape and actively connecting its members. This will make the “human infrastructure” of Cardano in Oceania more visible and coordinated, increasing the speed and success of initiatives.
@@ -68,7 +71,8 @@ We will continuously update the map with new entrants (e.g. after each hackathon
 
 **Overall, the ecosystem activation stream will create a living blueprint of Cardano’s social capital in Oceania. This will shorten discovery time (“who can help me build X on Cardano?”), reduce duplication of efforts, and boost the success rate of delivering Cardano-based products by ensuring the right people and knowledge are linked up promptly.**
 
----
+</div>
+<div class="section" markdown="1">
 
 ## Community Engagement
 Community engagement and developer activation are at the heart of this strategy, and we plan to significantly scale up events (building on the work done via volunteerism and individual donations to date) and host at least one hackathon in Oceania in the 2025-2026 period. By creating more opportunities for hands-on building and networking, we aim to grow the talent pool and surface innovative solutions on Cardano. Major initiatives in 2025–2026 include:
@@ -108,7 +112,19 @@ In addition to a larger hackathon, grassroots events will be held regularly acro
 
 - **Governance & Education Workshops:** As Cardano explores the Voltaire era (on-chain governance), we aim to educate and empower the Oceania community in governance processes. We plan a series of 3–4 workshops (some in-person, some virtual) on topics like Cardano Problem Statements (CPSs) and Improvement Proposals (CIPs), community voting, and the amendment of the Cardano Constitution. These workshops (budgeted \~$10k total to cover materials and any guest speaker travel) will help Oceania community members become active participants in Cardano’s governance (e.g. becoming Catalyst proposers, Community Advisors, or even elected representatives in future governance structures). This not only strengthens decentralisation but also positions Oceania's voices in global Cardano decision-making.
 
----
+### Impact and KPIs
+By the end of 2026, our goal is to have engaged hundreds of participants through these events. Key metrics include:
+
+- **Hackathon success:** ≥100 participants at the 2025 hackathon, developing ≥20 project prototypes; at least 3 of those projects should continue development post-hackathon (enter Catalyst funding or similar). Also, an increase in Cardano developers in Oceania (we can track new GitHub commits or developer survey numbers before vs. after).
+
+- **Community growth:** 20+ local events conducted with an average attendance of \~30, reaching \~600 people in total; virtual town halls engaging an additional audience (50+ attendees each month). We expect to see community membership metrics (Meetup groups, online forums) at least double from their 2024 baseline.
+
+- **Education and governance:** 100+ individuals trained through workshops and town halls on Cardano concepts, with at least 20 new active Catalyst voters or proposal collaborators coming from Oceania by 2026\.
+
+- **Ecosystem outcomes:** New collaborations formed at events (e.g. a meetup introduction leading to a startup hiring a Cardano developer, or a university connecting with Cardano Foundation for research). These anecdotal wins will be captured and reported to illustrate qualitative impact.
+
+</div>
+<div class="section" markdown="1">
 
 ## Integrated Marketing & Storytelling Strategy
 A coordinated marketing and outreach strategy will amplify all of the above efforts, ensuring that Cardano’s message in Oceania reaches the right audiences with high visibility. This strategy blends community-driven content, paid promotions, strategic partnerships, and compelling storytelling to maximize impact. We will implement an integrated marketing plan with clear budget lines as follows:
@@ -146,3 +162,10 @@ Numbers and ads alone won’t win hearts – storytelling is key to illustrate C
 - **Narrative Themes:** We will weave a consistent narrative in our communications: Cardano as a catalyst for inclusive and sustainable innovation in Oceania. Themes like financial inclusion for remote communities, transparency in trade (aligning with Oceania’s export integrity), and empowering local talent will recur in blogs and talks. This resonates with regional values and differentiates Cardano’s approach (often termed “RealFi” – real finance).
 
 - **PR and Media Outreach:** Toward major milestones (e.g. launch of the hackathon, partnership with a government, conclusion of the 2025 program results), we will issue press releases to mainstream media in Oceania. We’ll highlight value creation narratives – e.g. “Cardano empowers 500 new developers in Oceania” or “Pacific Island trials Cardano solution for aid delivery” – to catch headline attention. The marketing budget includes hiring PR consultants as needed to pitch these stories to news outlets.
+
+### Marketing – Budget & Tracking
+KPIs for marketing include the number of content pieces produced (target: at least 2 per month, \~\>40 total), total impressions/reach (aiming for millions of impressions cumulatively, e.g. \>500,000 through social ads and content views ), engagement metrics (click-through rates on ads, social shares), and community growth metrics (such as a 50% increase in Cardano-related social media followers or forum membership from Oceania by 2026). More qualitatively, we’ll gauge brand perception in the region via periodic surveys or feedback.
+
+By integrating community voice, paid reach, partnership networks, and authentic storytelling, our marketing efforts will ensure the Oceania strategy not only delivers results on the ground, but that those results are seen and amplified, attracting further support and talent into the ecosystem.
+
+</div>
