@@ -13,7 +13,7 @@ For Treasury and funding stakeholders, the plan offers a clear narrative of valu
 
 - It emphasizes measurable outcomes (with specific KPIs and milestones) and accountability (regular reporting and adaptive management).
 
-- It also ensures the Cardano community is at the center, fostering organic growth that can sustain itself post-2026.
+- It also ensures the Cardano community is at the centre, fostering organic growth that can sustain itself post-2026.
 
 By the end of 2026, we expect Oceania to be a thriving node in Cardano’s global network – with active communities in multiple countries, startups and enterprises deploying Cardano solutions, and a pipeline of innovations flowing from the region. The insights and model from this program can then be exported to other regions, fulfilling the broader goal of scaling Cardano adoption worldwide.
 
