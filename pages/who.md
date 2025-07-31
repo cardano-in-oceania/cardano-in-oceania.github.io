@@ -9,12 +9,16 @@ permalink: /who/
 
 ## Community Leaders
 ### Phil Lewis
-As an active Cardano community member since 2018, Phil has run many in person community events, including meetups and local Cardano Summit events in Perth.  He was selected as a DRep Pioneer Program leader, running an Intersect supported governance workshop last year.
+Phil is a long-time Cardano community member and certified Enterprise Architect with over 25 years of experience in enterprise and government IT. He has led in-person Cardano events across Perth, delivered governance workshops as a DRep Pioneer Program leader, and spoke at the 2024 Australian Crypto Convention on decentralised governance and Cardano’s roadmap ([watch here](https://www.youtube.com/watch?v=AEDqdm6_46M)).
 
-Phil was a speaker at the 2024 Australian Crypto Convention, where he gave an introduction to Cardano, discussed the new era of decentralised governance, and upcoming technology developments (his talk is available at https://www.youtube.com/watch?v=AEDqdm6_46M).
+As the CEO of Vaka Consulting, Phil brings hands-on experience building impact-focused blockchain solutions. His background working with large organisations and securing partnerships makes him well-positioned to support the business development goals of Cardano in Oceania. Phil also serves on the Intersect Steering Committee and chairs the Enterprise & Government Adoption Working Group (which he formed).
 
-**X:** @phillewisit  
-**LinkedIn:** https://www.linkedin.com/in/phillewisit/
+{% include social-links.html 
+  x="phillewisit" 
+  linkedin="phillewisit" 
+  linkedin_display="Phil Lewis"
+  github="phillewis" 
+%}
 
 ### Peter Bui
 Peter ...
@@ -22,8 +26,11 @@ Peter ...
 ### Peter Horsfall 
 As an active Cardano community member since 2021, Peter has served as a Delegate Representative (DRep) since 2024, contributing to the ecosystem’s governance. Nominated by his peers, he had the honour of signing the Cardano Constitution in Argentina, a significant milestone. Peter has hosted meetups and workshops in Melbourne and Sydney and played a key role in organising Cardano’s only booth at the 2024 Australia Crypto Convention in Sydney.  With over a decade of experience in finance, Peter works at National Australia Bank (NAB), specialising in legal operations and transformation through emerging technologies. He brings his expertise, networks, and enthusiasm to strengthen Cardano’s presence in Oceania and beyond.
 
-**X:** @blockchain_pete  
-**LinkedIn:** https://www.linkedin.com/in/peterhorsfall/
+{% include social-links.html 
+  x="blockchain_pete" 
+  linkedin="peterhorsfall" 
+  linkedin_display="Peter Horsfall"
+%}
 
 ### Jo Allum
 Jo ...
@@ -33,7 +40,11 @@ Jo ...
 
 ## Sponsors & Partners
 ### Vaka Consulting
-Vaka Consulting ...
+Vaka Consulting are a solutions design company, who partner with businesses looking to leverage decentralised technology. They sponsored several Cardano events last year, funding venues, catering and merchandise. They were also the lead logistics coordinator for the Intersect/Cardano booth at the 2024 Australian Crypto Convention.
+
+{% include social-links.html
+  website="https://vakaconsulting.io" 
+%}
 
 ### Venture Centre
 Venture Centre ...
@@ -68,6 +79,8 @@ Selfdriven Services has substantial business experience across a range of discip
 
 The Administration team has experience supporting social goals in not for profits, in particular the education space via community organisations. They have developed and managed financial systems to support distributed groups of both paid workers and volunteers, providing them with the tools and support to achieve their outcomes, while ensuring strong governance standards to maintain rigour, traceability and transparency.
 
-**Website:** https://selfdriven.services
+{% include social-links.html
+  website="https://selfdriven.services" 
+%}
 
 </div>

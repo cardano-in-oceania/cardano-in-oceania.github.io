@@ -1,0 +1,41 @@
+<p style="margin-bottom: 3em;">
+  {% if include.x %}
+    <a href="https://twitter.com/{{ include.x }}" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/x.svg" alt="X" width="20" style="vertical-align:middle; margin-right:6px;">
+      @{{ include.x }}
+    </a>
+  {% endif %}
+
+  {% if include.x and (include.linkedin or include.github or include.website) %}
+    &nbsp;|&nbsp;
+  {% endif %}
+
+  {% if include.linkedin %}
+    <a href="https://www.linkedin.com/in/{{ include.linkedin }}/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" alt="LinkedIn" width="20" style="vertical-align:middle; margin-right:6px;">
+      {{ include.linkedin_display | default: include.linkedin }}
+    </a>
+  {% endif %}
+
+  {% if include.linkedin and (include.github or include.website) %}
+    &nbsp;|&nbsp;
+  {% endif %}
+
+  {% if include.github %}
+    <a href="https://github.com/{{ include.github }}" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" alt="GitHub" width="20" style="vertical-align:middle; margin-right:6px;">
+      {{ include.github }}
+    </a>
+  {% endif %}
+
+  {% if include.github and include.website %}
+    &nbsp;|&nbsp;
+  {% endif %}
+
+  {% if include.website %}
+    <a href="{{ include.website }}" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/internetarchive.svg" alt="Website" width="20" style="vertical-align:middle; margin-right:6px;">
+      Website
+    </a>
+  {% endif %}
+</p>

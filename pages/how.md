@@ -3,7 +3,7 @@ layout: default
 title: How?
 permalink: /how/
 ---
-# How are we going to implement and verify?
+# Implementation: How will we achieve our objectives?
 
 <div class="section" markdown="1">
 
