@@ -31,7 +31,7 @@ The spending will be phased over the 12 months, with some front-loading in 2025 
 <div class="section" markdown="1">
 
 ## Implementation Timeline and Milestones
-We outline below the timeline of major milestones across 2025 and 2026\. This plan will be executed in phases, allowing for iteration and learning:
+We outline below the timeline of major milestones across 2025 and 2026. This plan will be executed in phases, allowing for iteration and learning:
 
 * **Q3 2025:** Initiation – Recruit the Oceania BD Lead and onboard the core project team. Kick off the ecosystem mapping effort (send surveys, start data gathering). Announce the Cardano Oceania strategy publicly to galvanize community support. Set up online channels (dedicated Telegram/Discord, etc.) for the region. Milestone: Team in place and mapping in progress by end of Q1.
 
