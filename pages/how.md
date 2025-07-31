@@ -7,10 +7,10 @@ permalink: /how/
 
 <div class="section" markdown="1">
 
-## Budget Overview 2025–2026
-The following table summarizes the proposed budget for the Cardano in Oceania initiative, broken down by key components.
+## Budget Overview
+The following table summarises the proposed budget for the Cardano in Oceania initiative, broken down by key components.
 
-| Budget Item | 2025–26 Total (ada) | Notes |
+| Budget Item | Total (ada) | Notes |
 | :---- | ----: | :---- |
 | Business Development Program | 120,000 | Contract an Oceania BD team, run BD bootcamps, partner outreach travel. |
 | Australian Crypto Convention | 120,000 | Sponsorship package, booth branding and furnishing, promotional material. Cardano side event. |
@@ -25,25 +25,67 @@ The following table summarizes the proposed budget for the Cardano in Oceania in
 
 This budget reflects a significant investment designed to achieve a step-change in Cardano’s presence in Oceania. We expect to leverage this funding efficiently by also seeking in-kind support and partnerships – for instance, event co-sponsorships could reduce our net costs, and content created by the community often exceeds the value of the modest grants provided.
 
-The spending will be phased over the 12 months, with some front-loading in 2025 (for initial program setup and the hackathon) and the remainder in 2026 (for follow-up events and second-year activities). We will implement strong financial oversight and transparency in managing this budget, with quarterly reports to the Cardano Community broadly, as well as to the Treasury (and any local funders), on expenditures versus the plan. Notably, the hackathon and other initiatives will practice transparent budget management, similar to Catalyst projects. Any unused contingency or cost savings will be reported and potentially returned to the treasury or reallocated with approval.
+The spending will be phased over the 12 months, with some front-loading in 2025 for program setup and launch. We will implement strong financial oversight and transparency in managing this budget, with quarterly reports to the Cardano Community broadly, as well as to the Treasury (and any local funders), on expenditures versus the plan. Notably, the hackathon and other initiatives will practice transparent budget management, similar to Catalyst projects. Any unused contingency or cost savings will be reported and potentially returned to the treasury or reallocated with approval.
 
 </div>
 <div class="section" markdown="1">
 
 ## Implementation Timeline and Milestones
-We outline below the timeline of major milestones across 2025 and 2026. This plan will be executed in phases, allowing for iteration and learning:
 
-* **Q3 2025:** Initiation – Recruit the Oceania BD Lead and onboard the core project team. Kick off the ecosystem mapping effort (send surveys, start data gathering). Announce the Cardano Oceania strategy publicly to galvanize community support. Set up online channels (dedicated Telegram/Discord, etc.) for the region. Milestone: Team in place and mapping in progress by end of Q1.
+This timeline outlines the phased rollout of the Cardano in Oceania strategy, incorporating capacity-building, technical activation, community growth, and impact reporting.
 
-* **Q4 2025:** Acceleration – Launch the BD Capacity Program with the first training bootcamp for BD Fellows. Begin outreach to target partners (initial meetings with companies/universities). Finalize hackathon planning: secure venue, open registrations, begin marketing push. Conduct a couple of pre-hackathon workshops (intro to Cardano tech) in Sydney and Auckland to prime participants. Hold regular meetups in at least 2 cities this quarter and monthly virtual town halls. Milestone: Hackathon fully planned and \>50% of participant slots pre-registered by end of Q2; 5+ BD Fellows trained in bootcamp 1\.
+### **Q4 2025 – Launch & Foundations**
+- **Public Launch:** Present the Cardano in Oceania strategy at a side event during the Australian Crypto Convention, with regional crypto industry leaders and Cardano stakeholders.
+- **Team Formation:** Recruit and onboard the **Oceania Business Development (BD) Team**.
+- **BD Bootcamp 1:** Enroll the first cohort of **5–10 Cardano Oceania BD Fellows** and deliver a structured training program based on strategy, compliance, finance, marketing, and leadership.
+- **Community Infrastructure:** Establish Oceania-specific communication channels (Telegram, Discord, newsletter).
+- **Mapping Kickoff:** Launch the **Ecosystem Mapping** initiative: surveys, referrals, and tool setup.
+- **Hackathon Pre-Planning:** Secure venue, define format and tracks, and identify regional mentors.
+- **Local Events:** Begin in-person events in 2–3 key cities and monthly virtual town halls.
 
-* **Q1 2026:** Execution – Oceania Cardano Hackathon 2025 takes place. Deliverable: successful 2-3 day hackathon event with 100+ attendees and projects built. Immediately after, provide continuity to hackathon teams (post-event mentorship, connect winners to funding opportunities). Attend the Australian Crypto Convention 2025 (usually around Q3/Q4) with a Cardano booth – use it to showcase hackathon winners and recruit more interest. Continue monthly meetups (including a special “post-hackathon roadshow” meetup in several cities to demo the hackathon projects to local audiences). Milestone: Hackathon delivered by Q3; Cardano presence at ACC with significant booth engagement (collect \>200 leads/contacts).
+**Milestone:**  
+✅ Strategy launched; BD team operational; Bootcamp 1 complete; hackathon planning underway; mapping effort initiated.
 
-* **Q2 2026:** Expansion & Reflection – Complete the first iteration of the Oceania Ecosystem Map and publish a report of findings (who’s who in the community, gaps identified). Hold a strategy review meeting with stakeholders (Cardano Foundation, community reps) to assess year 1 progress and adjust 2026 plans as needed. Marketing focus this quarter on storytelling: publish a video case study from the hackathon or a success story of a Cardano partnership formed. Run governance workshops especially if Catalyst or on-chain governance events (e.g. constitutional votes) are upcoming – prepare the community to participate. Milestone: Oceania Ecosystem Map v1.0 released in Q4; at least 2 partnership MOUs in discussion or signed by end of 2025 as a result of BD efforts. Onboard any new team members or fellows (if expanding the BD program). Set specific 2026 targets (perhaps focusing on converting year-1 leads into deployed projects). Possibly initiate plans for a 2026 hackathon or developer workshop series (depending on success of 2025, we may opt for a second hackathon in another location or a smaller “buildathon” event). Continue regular community events (meetups/town halls). Milestone: Confirm whether a 2026 Hackathon or Cardano Summit side-event in Oceania will occur (decision by Q1 so planning can start if yes).
+### **Q1 2026 – Partner Outreach & Hackathon Setup**
+- **Partner Engagement:** Begin outreach to BD targets (companies, universities, NGOs); initiate discussions for pilot collaborations.
+- **Hackathon Activation:** Finalize logistics for the Q2 Hackathon — open registration, begin regional marketing, and confirm mentors and technical support.
+- **Pre-Hackathon Workshops:** Host 2–3 technical onboarding sessions (e.g. in Auckland, Sydney) to familiarize newcomers with Cardano dev tools.
+- **Ecosystem Engagement:** Hold Oceania Ecosystem Roundtable #1 to connect projects and surface collaboration opportunities.
+- **Content Build-up:** Launch the first Cardano Oceania content series (e.g. blog interviews with BD Fellows or event recaps).
+- **Governance Prep:** Schedule and promote upcoming governance workshops on Catalyst, CIPs, and constitutional engagement.
 
-* **Q3 2026:** Building Momentum – Focus on project incubation: some of the 2025 hackathon projects or partnerships should be entering implementation stages now. Ensure they have support (technical guidance, possibly funding). Promote these early outcomes via marketing (e.g. a blog series “Projects to Watch in Oceania”). Host a mid-point community town hall in Q2 2026 to report on all KPIs publicly – transparency to the community and Treasury about progress. Milestone: At least one Cardano-based solution piloted in a real-world setting in Oceania by mid-2026 (e.g. a supply chain pilot going live, or a local government trial using Cardano). Culmination Events – If scheduled, execute the 2026 Cardano Oceania Hackathon or Summit event in this period (or join the global Cardano Summit with a strong Oceania delegation). Use this as a capstone to showcase two years of work: have BD Fellows, partners, and community members present their accomplishments. Possibly unveil new partnerships or products. Gather feedback and outcomes as input for final reporting. Milestone: Successful execution of final event; broad media coverage achieved for Cardano’s presence in Oceania by Q3.
+**Milestone:**  
+✅ 50%+ of hackathon slots pre-registered; outreach to 5+ target partners underway; ecosystem collaborations initiated.
 
-* **Q4 2026:** Conclusion & Next Steps – Wrap up the strategy with a comprehensive report to the Treasury/funders and community. This report will detail outcomes against KPIs (e.g. how many developers trained, projects launched, users onboarded, etc.), lessons learned, and a proposal for either transitioning to a self-sustaining community model or a request for continued funding (if the results warrant scaling up further). Conduct a final round of community consultations – perhaps a survey or open forum – to get input on how the community feels about Cardano’s growth in Oceania and what they need going forward. Milestone: All deliverables completed by end of 2026, final report delivered, and a clear plan (and possibly governance handover to local leadership or a DAO) for post-2026 continuity.
+### **Q2 2026 – Hackathon Delivery & Post-Event Momentum**
+- **Hackathon Execution:** Deliver the **Oceania Hackathon 2026** (target: 100+ attendees, 20+ dApp/project prototypes). Focus areas: SSI/identity, supply chain, social finance.
+- **Diversity Support:** Allocate **travel grants** for participants from remote areas and Pacific Islands.
+- **Mentorship & Onboarding:** Offer in-event workshops and 1-on-1 mentorship from Cardano ecosystem experts.
+- **Post-Hackathon Support:** Facilitate continued team development: Catalyst coaching, incubator links, and integration with global dev community.
+- **Ecosystem Map v1.0:** Publish an interactive map and skills database covering 100+ individuals/orgs.
+- **Storytelling Launch:** Begin production of video/documentary content spotlighting hackathon teams or regional partnerships.
+
+**Milestone:**  
+✅ Hackathon delivered; ecosystem map published; 3+ projects progressing beyond the event; mentorship pathways engaged.
+
+### **Q3 2026 – Incubation, Reflection & Decision Point**
+- **Project Incubation:** Provide ongoing support to top hackathon projects or BD collaborations entering pilot stage (e.g. government, NGO, or enterprise trials).
+- **Community Events:** Continue monthly town halls and hold Roundtable #2 to track ecosystem outcomes and gaps.
+- **Governance Workshops:** Run in-person or online workshops aligned with any live governance activity (e.g. Catalyst voting or constitutional votes).
+- **Strategy Review:** Conduct formal stakeholder review to assess KPIs and make go/no-go decision on a **Capstone Event** or **Summit side event**.
+- **Marketing Push:** Publish blog series or mini-documentary: "Projects to Watch in Oceania."
+
+**Milestone:**  
+✅ At least one Cardano-based solution in pilot; Capstone decision finalized; early success stories promoted.
+
+### **Q4 2026 – Capstone Event & Final Reporting**
+- **Capstone Event (optional):** If approved, execute the **Cardano Oceania Capstone Showcase** or regional **Summit side-event**. Present hackathon outcomes, BD wins, governance progress, and community growth.
+- **Final Community Feedback:** Run a region-wide consultation (survey/forum) on next-phase priorities, needs, and vision.
+- **Final Report:** Deliver comprehensive impact report to the Treasury and community: KPIs, financials, partnership status, and stories of change.
+- **Transition Planning:** Propose and begin executing continuity options: e.g. transitioning to a **DAO**, integrating with Intersect governance, or preparing a follow-on funding proposal.
+
+**Milestone:**  
+✅ Final report delivered; all program KPIs assessed; continuity strategy supported by community.
 
 Throughout the timeline, monitoring and evaluation will be continuous. Each quarter will have defined targets (number of events held, people reached, etc.), and we will use these to course-correct. The timeline also retains flexibility – for instance, if an opportunity arises to collaborate on a national-level project in 2026, we might reallocate some event budget to support that, as long as it aligns with our objectives.
 
