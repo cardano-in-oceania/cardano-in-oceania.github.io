@@ -53,7 +53,7 @@ Venture Centre ...
 <div class="section" markdown="1">
 
 ## Supporters & Contributors
-**Scott Collins** – Documentary filmmaker, supporting
+**Scott Collins** – Documentary filmmaker, ...
 
 **Blane Edwards** – 
 
