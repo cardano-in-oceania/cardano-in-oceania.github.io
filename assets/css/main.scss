@@ -10,9 +10,9 @@ $text-muted:   #cfd8dc;
   padding: 0;
   box-sizing: border-box;
 }
-html,
-body {
+html, body {
   height: 100%;
+  overflow: hidden;
 }
 body {
   display: flex;
@@ -43,7 +43,11 @@ a {
 
 /* Header */
 .site-header {
-  position: relative;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1000;
   width: 100%;
   padding: 1rem 2rem;
   display: flex;
@@ -58,6 +62,7 @@ a {
   color: $text-light;
   cursor: pointer;
 }
+/* Desktop nav */
 .site-nav {
   display: flex;
 }
@@ -67,13 +72,15 @@ a {
   font-size: 1.2rem;
 }
 
-/* Page wrapper: keeps hero and content centered and pushes footer down */
+/* Page wrapper: row flex, wraps for homepage, sidebar+content for subpages */
 .page-wrapper {
-  flex: 1;
+  margin-top: 6rem;
+  height: calc(100vh - 6rem);
+  overflow-y: auto;
   display: flex;
-  flex-direction: column;
-  align-items: center;
+  flex-wrap: wrap;
   width: 100%;
+  justify-content: space-evenly;
 }
 
 /* Hero Section as two-row flex */
@@ -88,6 +95,7 @@ a {
   box-sizing: border-box;
   text-align: center;
 }
+/* Hero text block */
 .hero-text {
   display: flex;
   flex-direction: column;
@@ -105,16 +113,43 @@ a {
   font-size: 1.2rem;
   color: $text-muted;
 }
+/* Wave SVG sits as sibling below text */
 .hero__wave {
   width: 100%;
   height: auto;
 }
 
+/* Table of Contents sidebar */
+.page-toc {
+  flex: 0 0 200px;
+  margin: 2rem;
+  position: sticky;
+  top: 6rem;
+  max-height: calc(100vh - 4rem - 2rem);
+  overflow-y: auto;
+}
+.page-toc ul {
+  list-style: none;
+  padding-left: 0;
+}
+.page-toc li + li {
+  margin-top: 1.5rem;
+}
+.page-toc a {
+  color: inherit;
+  text-decoration: none;
+  font-size: 1.1rem;
+  display: block;
+}
+.page-toc a:hover {
+  text-decoration: underline;
+}
+
 /* Unified content styling */
 .content {
   width: 95%;
-  max-width: 960px;
-  margin: 2rem auto 4rem;
+  max-width: 1024px;
+  margin: 1rem 10rem 4rem;
   padding: 2rem;
   line-height: 1.6;
   border-radius: 8px;
@@ -149,7 +184,7 @@ a {
 }
 /* Center all header cells */
 .content table th {
-  text-align: center;
+  text-align: center !important;
   padding: 0.75rem;
   border-bottom: 2px solid $text-light;
 }
@@ -174,21 +209,13 @@ a {
   color: $text-muted;
 }
 
-/* Force header cells to center */
-.content table thead th {
-  text-align: center !important;
-}
-
-/* Also in case Kramdown emits <th align="..."> attributes */
-.content table th[align] {
-  text-align: center !important;
-}
-
+/* Section wrapper */
 .section {
   background: rgba(255,255,255,0.1);
   padding: 2rem;
   margin: 3rem auto;
   border-radius: 8px;
+  width: 95%;
 }
 
 /* Footer */
@@ -209,6 +236,9 @@ a {
     margin: 4rem auto 2rem;
     padding: 1.5rem;
   }
+  .page-toc {
+    display: none;
+  }
   .site-nav {
     display: none;
     position: absolute;
@@ -228,5 +258,9 @@ a {
   }
   .menu-toggle {
     display: block;
+  }
+  /* For homepage: make content full width below hero */
+  .page-wrapper .content {
+    flex: 1 1 100%;
   }
 }
