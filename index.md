@@ -3,7 +3,7 @@ layout: default
 title: Home
 permalink: /
 ---
-The Cardano in Oceania 2025–2026 strategy and budget presented here is a comprehensive plan designed to ignite Cardano’s growth in a strategically important region. By investing in people (capacity building and community), projects (hackathons and pilots), and promotion (marketing and storytelling), we create a virtuous cycle: more talent and awareness leads to more projects, which lead to real adoption and success stories, which in turn attract even more talent and partnerships. This aligns closely with Cardano’s mission of building a world-changing ecosystem – starting locally in Oceania, with ripples globally.
+**The Cardano in Oceania 2025–2026 strategy and budget presented here is a comprehensive plan designed to ignite Cardano’s growth in a strategically important region. By investing in people (capacity building and community), projects (hackathons and pilots), and promotion (marketing and storytelling), we create a virtuous cycle: more talent and awareness leads to more projects, which lead to real adoption and success stories, which in turn attract even more talent and partnerships. This aligns closely with Cardano’s mission of building a world-changing ecosystem – starting locally in Oceania, with ripples globally.**
 
 For Treasury and funding stakeholders, the plan offers a clear narrative of value creation:
 
