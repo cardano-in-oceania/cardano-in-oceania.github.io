@@ -26,8 +26,9 @@
     <div class="content">
       {{ content }}
     </div>
+    {% include footer.html %}
   </div>
-  {% include footer.html %}
+  
   <script>
     document.addEventListener("DOMContentLoaded", function() {
       const btn = document.querySelector(".menu-toggle");

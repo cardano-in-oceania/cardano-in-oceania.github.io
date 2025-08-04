@@ -121,6 +121,7 @@ a {
 
 /* Table of Contents sidebar */
 .page-toc {
+  //width: 20%;
   flex: 0 0 200px;
   margin: 2rem;
   position: sticky;
@@ -147,10 +148,10 @@ a {
 
 /* Unified content styling */
 .content {
-  width: 95%;
-  max-width: 1024px;
-  margin: 1rem 12rem 4rem 8rem;
-  padding: 2rem;
+  flex: 1;
+  //max-width: 1024px;
+  //margin: 1rem 12rem 4rem 8rem;
+  padding: 1rem 3rem;
   line-height: 1.6;
   border-radius: 8px;
 }
@@ -187,13 +188,13 @@ a {
 .content table th {
   text-align: center !important;
   padding: 0.75rem;
-  border-bottom: 2px solid $text-light;
+  border-bottom: 2px solid $primary-bg;
 }
 /* Left-align all body cells */
 .content table td {
   text-align: left;
   padding: 0.75rem;
-  border-bottom: 1px solid rgba($text-light, 0.2);
+  border-bottom: 1px solid rgba($primary-bg, 0.2);
 }
 /* Right-align numeric columns */
 .content table td.numeric,
@@ -210,12 +211,20 @@ a {
   color: $text-muted;
 }
 
+/* Home page content section */
+.home-section {
+  width: 60%;
+  padding: 2rem;
+  margin: 2rem 20%;
+  color: $text-muted;
+}
+
 /* Section wrapper */
 .section {
   background: #e4ebf0;
   color: #1e1e1e;
   padding: 2rem;
-  margin: 3rem auto;
+  margin: 2rem auto;
   border-radius: 8px;
   width: 95%;
   border: 1px solid #d0d0d0;
