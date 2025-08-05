@@ -108,6 +108,7 @@ a {
 .hero__title {
   font-size: 2.5rem;
   letter-spacing: 1px;
+  padding: 0.25rem;
 }
 .hero__subtitle {
   font-size: 1.2rem;
@@ -223,7 +224,7 @@ a {
 .section {
   background: #e4ebf0;
   color: #1e1e1e;
-  padding: 2rem;
+  padding: 3rem;
   margin: 2rem auto;
   border-radius: 8px;
   width: 95%;
@@ -246,7 +247,7 @@ a {
 @media (max-width: 768px) {
   .content {
     width: 100%;
-    margin: 4rem auto 2rem;
+    //margin: 4rem auto 2rem;
     padding: 1rem;
   }
   .page-toc {
@@ -275,5 +276,11 @@ a {
   /* For homepage: make content full width below hero */
   .page-wrapper .content {
     flex: 1 1 100%;
+  }
+    .home-section {
+    width: 100%;
+    padding: 2rem;
+    margin: 0;
+    color: $text-muted;
   }
 }
