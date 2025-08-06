@@ -9,9 +9,9 @@ permalink: /who/
 
 ## Community Leaders
 ### Phil Lewis
-Phil is a long-time Cardano community member and certified Enterprise Architect with over 25 years of experience in enterprise and government IT. He has led in-person Cardano events across Perth, delivered governance workshops as a DRep Pioneer Program leader, and spoke at the 2024 Australian Crypto Convention on decentralised governance and Cardano’s roadmap ([watch here](https://www.youtube.com/watch?v=AEDqdm6_46M)).
+Phil is a long-time Cardano community member and certified Enterprise Architect with over 25 years of experience in enterprise and government IT. He has led in-person Cardano events across Australia, delivered a governance workshop as a DRep Pioneer Program leader, and spoke at the 2024 Australian Crypto Convention on decentralised governance and Cardano’s roadmap ([watch here](https://www.youtube.com/watch?v=AEDqdm6_46M)).
 
-As the CEO of Vaka Consulting, Phil brings hands-on experience building impact-focused blockchain solutions. His background working with large organisations and securing partnerships makes him well-positioned to support the business development goals of Cardano in Oceania. Phil also serves on the Intersect Steering Committee and chairs the Enterprise & Government Adoption Working Group (which he formed).
+As the CEO of Vaka Consulting, Phil brings hands-on experience building impact-focused blockchain solutions. His background working with large organisations and securing partnerships makes him well-positioned to support the business development goals of Cardano in Oceania. Phil also serves on the Intersect Steering Committee and chairs the Enterprise & Government Adoption Working Group.
 
 {% include social-links.html 
   x="phillewisit" 
