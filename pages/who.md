@@ -53,9 +53,14 @@ Venture Centre ...
 <div class="section" markdown="1">
 
 ## Supporters & Contributors
-**Scott Collins** – Documentary filmmaker, ...
+### Nathan Barkell (Perth)
+Nathan is a passionate educator and entrepreneur who has taught Maths, Science, and Health & Physical Education for over a decade. He hosted the Cardano Constitution Workshop in Perth, Western Australia, and was elected as the city’s delegate to attend the Cardano Constitutional Convention in Buenos Aires, where he participated in drafting and officially signing the final Constitution alongside Charles Hoskinson and fellow global delegates. An active member of the crypto ecosystem for the past five years, Nate is focused on growing a world-class business that makes education more accessible and impactful across the world.
 
-**Blane Edwards** – 
+### Scott Collins (Brisbane)
+Scott is a documentary filmmaker, ...
+
+### Blane Edwards (Perth)
+Blane is
 
 </div>
 <div class="section" markdown="1">
