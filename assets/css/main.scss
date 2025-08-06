@@ -10,9 +10,9 @@ $text-muted:   #cfd8dc;
   padding: 0;
   box-sizing: border-box;
 }
-html,
-body {
+html, body {
   height: 100%;
+  overflow: hidden;
 }
 body {
   display: flex;
@@ -43,7 +43,11 @@ a {
 
 /* Header */
 .site-header {
-  position: relative;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1000;
   width: 100%;
   padding: 1rem 2rem;
   display: flex;
@@ -58,6 +62,7 @@ a {
   color: $text-light;
   cursor: pointer;
 }
+/* Desktop nav */
 .site-nav {
   display: flex;
 }
@@ -67,13 +72,15 @@ a {
   font-size: 1.2rem;
 }
 
-/* Page wrapper: keeps hero and content centered and pushes footer down */
+/* Page wrapper: row flex, wraps for homepage, sidebar+content for subpages */
 .page-wrapper {
-  flex: 1;
+  margin-top: 6rem;
+  height: calc(100vh - 6rem);
+  overflow-y: auto;
   display: flex;
-  flex-direction: column;
-  align-items: center;
+  flex-wrap: wrap;
   width: 100%;
+  justify-content: space-evenly;
 }
 
 /* Hero Section as two-row flex */
@@ -88,6 +95,7 @@ a {
   box-sizing: border-box;
   text-align: center;
 }
+/* Hero text block */
 .hero-text {
   display: flex;
   flex-direction: column;
@@ -100,33 +108,61 @@ a {
 .hero__title {
   font-size: 2.5rem;
   letter-spacing: 1px;
+  padding: 0.25rem;
 }
 .hero__subtitle {
   font-size: 1.2rem;
   color: $text-muted;
 }
+/* Wave SVG sits as sibling below text */
 .hero__wave {
   width: 100%;
   height: auto;
 }
 
+/* Table of Contents sidebar */
+.page-toc {
+  //width: 20%;
+  flex: 0 0 200px;
+  margin: 2rem;
+  position: sticky;
+  top: 6rem;
+  max-height: calc(100vh - 4rem - 2rem);
+  overflow-y: auto;
+}
+.page-toc ul {
+  list-style: none;
+  padding-left: 0;
+}
+.page-toc li + li {
+  margin-top: 1.5rem;
+}
+.page-toc a {
+  color: inherit;
+  text-decoration: none;
+  font-size: 1.1rem;
+  display: block;
+}
+.page-toc a:hover {
+  text-decoration: underline;
+}
+
 /* Unified content styling */
 .content {
-  color: black;
-  background: white;
-  width: 95%;
-  max-width: 960px;
-  margin: 2rem auto 4rem;
-  padding: 2rem;
+  flex: 1;
+  //max-width: 1024px;
+  //margin: 1rem 12rem 4rem 8rem;
+  padding: 1rem 3rem;
   line-height: 1.6;
   border-radius: 8px;
 }
 .content h1 {
   text-align: center;
+  color: $text-muted;
 }
 .content h2 {
   font-size: 1.8rem;
-  margin: 1.5rem 0 1rem;
+  margin: 0 0 1rem;
 }
 .content p {
   margin-bottom: 1rem;
@@ -151,15 +187,15 @@ a {
 }
 /* Center all header cells */
 .content table th {
-  text-align: center;
+  text-align: center !important;
   padding: 0.75rem;
-  border-bottom: 2px solid $text-light;
+  border-bottom: 2px solid $primary-bg;
 }
 /* Left-align all body cells */
 .content table td {
   text-align: left;
   padding: 0.75rem;
-  border-bottom: 1px solid rgba($text-light, 0.2);
+  border-bottom: 1px solid rgba($primary-bg, 0.2);
 }
 /* Right-align numeric columns */
 .content table td.numeric,
@@ -176,22 +212,24 @@ a {
   color: $text-muted;
 }
 
-/* Force header cells to center */
-.content table thead th {
-  text-align: center !important;
-}
-
-/* Also in case Kramdown emits <th align="..."> attributes */
-.content table th[align] {
-  text-align: center !important;
-}
-
-.section {
-  color: black;
-  background: white;
+/* Home page content section */
+.home-section {
+  width: 60%;
   padding: 2rem;
-  margin: 3rem auto;
+  margin: 2rem 20%;
+  color: $text-muted;
+}
+
+/* Section wrapper */
+.section {
+  background: #e4ebf0;
+  color: #1e1e1e;
+  padding: 2rem;
+  margin: 2rem auto;
   border-radius: 8px;
+  width: 95%;
+  border: 1px solid #d0d0d0;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
 }
 
 /* Footer */
@@ -209,8 +247,11 @@ a {
 @media (max-width: 768px) {
   .content {
     width: 100%;
-    margin: 4rem auto 2rem;
-    padding: 1.5rem;
+    //margin: 4rem auto 2rem;
+    padding: 1rem;
+  }
+  .page-toc {
+    display: none;
   }
   .site-nav {
     display: none;
@@ -231,5 +272,15 @@ a {
   }
   .menu-toggle {
     display: block;
+  }
+  /* For homepage: make content full width below hero */
+  .page-wrapper .content {
+    flex: 1 1 100%;
+  }
+    .home-section {
+    width: 100%;
+    padding: 2rem;
+    margin: 0;
+    color: $text-muted;
   }
 }

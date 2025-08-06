@@ -9,9 +9,9 @@ permalink: /who/
 
 ## Community Leaders
 ### Phil Lewis
-Phil is a long-time Cardano community member and certified Enterprise Architect with over 25 years of experience in enterprise and government IT. He has led in-person Cardano events across Perth, delivered governance workshops as a DRep Pioneer Program leader, and spoke at the 2024 Australian Crypto Convention on decentralised governance and Cardano’s roadmap ([watch here](https://www.youtube.com/watch?v=AEDqdm6_46M)).
+Phil is a long-time Cardano community member and certified Enterprise Architect with over 25 years of experience in enterprise and government IT. He has led in-person Cardano events across Australia, delivered a governance workshop as a DRep Pioneer Program leader, and spoke at the 2024 Australian Crypto Convention on decentralised governance and Cardano’s roadmap ([watch here](https://www.youtube.com/watch?v=AEDqdm6_46M)).
 
-As the CEO of Vaka Consulting, Phil brings hands-on experience building impact-focused blockchain solutions. His background working with large organisations and securing partnerships makes him well-positioned to support the business development goals of Cardano in Oceania. Phil also serves on the Intersect Steering Committee and chairs the Enterprise & Government Adoption Working Group (which he formed).
+As the CEO of Vaka Consulting, Phil brings hands-on experience building impact-focused blockchain solutions. His background working with large organisations and securing partnerships makes him well-positioned to support the business development goals of Cardano in Oceania. Phil also serves on the Intersect Steering Committee and chairs the Enterprise & Government Adoption Working Group.
 
 {% include social-links.html 
   x="phillewisit" 
@@ -24,7 +24,7 @@ As the CEO of Vaka Consulting, Phil brings hands-on experience building impact-f
 Peter ...
 
 ### Peter Horsfall 
-Peter has been contributing to Cardano since 2021. Peter has been involved in finance since the early 2010s, with 11 years at National Australia Bank (NAB) specialising in legal operations and transformation through emerging technologies. He is also the director and founder of Executive Portlets Pty Ltd, a software company focused on executive tools. He has a deep passion for blockchain technology and its potential to drive community governance. He has served as a Delegate Representative (DRep) since 2024, contributing to the ecosystem’s decision-making. Nominated by his peers, he had the honour of signing the Cardano Constitution in Argentina. Peter has hosted meetups and workshops in Melbourne and Sydney and played a key role in organising Cardano’s booth at the 2024 Australia Crypto Convention. He brings his expertise, networks, and enthusiasm to strengthen Cardano’s presence in Oceania and beyond.
+As an active Cardano community member since 2021, Peter has served as a Delegate Representative (DRep) since 2024, contributing to the ecosystem’s governance. Nominated by his peers, he had the honour of signing the Cardano Constitution in Argentina, a significant milestone. Peter has hosted meetups and workshops in Melbourne and Sydney and played a key role in organising Cardano’s only booth at the 2024 Australia Crypto Convention in Sydney.  With over a decade of experience in finance, Peter works at National Australia Bank (NAB), specialising in legal operations and transformation through emerging technologies. He brings his expertise, networks, and enthusiasm to strengthen Cardano’s presence in Oceania and beyond.
 
 {% include social-links.html 
   x="blockchain_pete" 
@@ -53,9 +53,14 @@ Venture Centre ...
 <div class="section" markdown="1">
 
 ## Supporters & Contributors
-**Scott Collins** – Documentary filmmaker, ...
+### Nathan Barkell (Perth)
+Nathan is a passionate educator and entrepreneur who has taught Maths, Science, and Health & Physical Education for over a decade. He hosted the Cardano Constitution Workshop in Perth, Western Australia, and was elected as the city’s delegate to attend the Cardano Constitutional Convention in Buenos Aires, where he participated in drafting and officially signing the final Constitution alongside Charles Hoskinson and fellow global delegates. An active member of the crypto ecosystem for the past five years, Nate is focused on growing a world-class business that makes education more accessible and impactful across the world.
 
-**Blane Edwards** – 
+### Scott Collins (Brisbane)
+Scott is a documentary filmmaker, ...
+
+### Blane Edwards (Perth)
+Blane is
 
 </div>
 <div class="section" markdown="1">

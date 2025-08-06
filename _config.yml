@@ -2,10 +2,10 @@ title: "Cardano in Oceania"
 baseurl: ""
 
 display_menu:
-  - title: "Why?"
-    url: "/why/"
   - title: "What?"
     url: "/what/"
+  - title: "Why?"
+    url: "/why/"
   - title: "How?"
     url: "/how/"
   - title: "Who?"
