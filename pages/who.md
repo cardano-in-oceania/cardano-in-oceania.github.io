@@ -18,6 +18,8 @@ Beyond education, Peter builds infrastructure tools and champions decentralised 
 
 {% include social-links.html 
   x="astroboysoup" 
+  linkedin="peterbui1" 
+  linkedin_display="Peter Bui"
 %}
 
 ### Peter Horsfall 
@@ -93,13 +95,11 @@ Scott is a documentary filmmaker who has been deeply engaged with Cardano since 
 ### Blane Edwards (Perth)
 Profile information here ...
 
-### Corinne Phillips
+### Corinne Phillips (Sydney)
 Profile information here ...
 
-### Oscar Portman
+### Oscar Portman (Sydney)
 Profile information here ...
-
-
 
 </div>
 <div class="section" markdown="1">
