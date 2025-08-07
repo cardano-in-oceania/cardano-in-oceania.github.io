@@ -8,20 +8,17 @@ permalink: /who/
 <div class="section" markdown="1">
 
 ## Community Leaders
-### Phil Lewis
-Phil is a long-time Cardano community member and certified Enterprise Architect with over 25 years of experience in enterprise and government IT. He has led in-person Cardano events across Australia, delivered a governance workshop as a DRep Pioneer Program leader, and spoke at the 2024 Australian Crypto Convention on decentralised governance and Cardano’s roadmap ([watch here](https://www.youtube.com/watch?v=AEDqdm6_46M)).
-
-As the CEO of Vaka Consulting, Phil brings hands-on experience building impact-focused blockchain solutions. His background working with large organisations and securing partnerships makes him well-positioned to support the business development goals of Cardano in Oceania. Phil also serves on the Intersect Steering Committee and chairs the Enterprise & Government Adoption Working Group.
-
-{% include social-links.html 
-  x="phillewisit" 
-  linkedin="phillewisit" 
-  linkedin_display="Phil Lewis"
-  github="phillewis" 
-%}
+### Jo Allum
+Profile information here ...
 
 ### Peter Bui
-Peter ...
+Peter Bui is a developer and educator who bridges mainstream web technologies with Cardano. As founder of the agency Mesh With Us and creator of the CardanoPress WordPress plugin, he brings two decades of digital-tech experience to blockchain adoption. Within Cardano he runs the eco-friendly ADAOZ stake pool, is a meetup organiser and serves as a long-standing Cardano Ambassador, sharing clear, beginner-friendly insights through his popular Learn Cardano podcast and YouTube channel, which have clocked more than two million views.
+
+Beyond education, Peter builds infrastructure tools and champions decentralised governance. CardanoPress helps WordPress sites connect directly to Cardano wallets, lowering barriers for new users, while his weekly news digests and community round-tables keep delegators up to date on DeFi, infrastructure, and funding debates. In 2025 he expanded his impact by standing as a DRep, promising transparent voting on treasury and governance proposals and reinforcing his commitment to responsible, community-driven network growth.
+
+{% include social-links.html 
+  x="astroboysoup" 
+%}
 
 ### Peter Horsfall 
 As an active Cardano community member since 2021, Peter has served as a Delegate Representative (DRep) since 2024, contributing to the ecosystem’s governance. Nominated by his peers, he had the honour of signing the Cardano Constitution in Argentina, a significant milestone. Peter has hosted meetups and workshops in Melbourne and Sydney and played a key role in organising Cardano’s only booth at the 2024 Australia Crypto Convention in Sydney.  With over a decade of experience in finance, Peter works at National Australia Bank (NAB), specialising in legal operations and transformation through emerging technologies. He brings his expertise, networks, and enthusiasm to strengthen Cardano’s presence in Oceania and beyond.
@@ -32,13 +29,36 @@ As an active Cardano community member since 2021, Peter has served as a Delegate
   linkedin_display="Peter Horsfall"
 %}
 
-### Jo Allum
-Jo ...
+### Phil Lewis
+Phil is a long-time Cardano community member and certified Enterprise Architect with over 25 years of experience in enterprise and government IT. He has led in-person Cardano events across Australia, delivered a governance workshop as a DRep Pioneer Program leader, and spoke at the 2024 Australian Crypto Convention on Cardano’s unique capabilities and the introduction of decentralised governance ([watch here](https://www.youtube.com/watch?v=AEDqdm6_46M)).
+
+As the CEO of Vaka Consulting, Phil brings hands-on experience building impact-focused blockchain solutions. His background working with large organisations and securing partnerships makes him well-positioned to support the business development goals of Cardano in Oceania. Phil also serves on the Intersect Steering Committee and chairs the Enterprise & Government Adoption Working Group.
+
+{% include social-links.html 
+  x="phillewisit" 
+  linkedin="phillewisit" 
+  linkedin_display="Phil Lewis"
+  github="phillewis" 
+%}
 
 </div>
 <div class="section" markdown="1">
 
 ## Sponsors & Partners
+### Executive Portlets
+Profile information here ...
+
+{% include social-links.html
+  website="https://www.executiveportlets.com.au/" 
+%}
+
+### TokenFlows
+Profile information here ...
+
+{% include social-links.html
+  website="https://tokenflows.xyz/" 
+%}
+
 ### Vaka Consulting
 Vaka Consulting are a solutions design company, who partner with businesses looking to leverage decentralised technology. They sponsored several Cardano events last year, funding venues, catering and merchandise. They were also the lead logistics coordinator for the Intersect/Cardano booth at the 2024 Australian Crypto Convention.
 
@@ -47,7 +67,18 @@ Vaka Consulting are a solutions design company, who partner with businesses look
 %}
 
 ### Venture Centre
-Venture Centre ...
+Profile information here ...
+
+{% include social-links.html
+  website="https://www.venturecentre.io/" 
+%}
+
+### yūmi.ai
+Profile information here ...
+
+{% include social-links.html
+  website="https://yumi.ai/" 
+%}
 
 </div>
 <div class="section" markdown="1">
@@ -57,10 +88,18 @@ Venture Centre ...
 Nathan is a passionate educator and entrepreneur who has taught Maths, Science, and Health & Physical Education for over a decade. He hosted the Cardano Constitution Workshop in Perth, Western Australia, and was elected as the city’s delegate to attend the Cardano Constitutional Convention in Buenos Aires, where he participated in drafting and officially signing the final Constitution alongside Charles Hoskinson and fellow global delegates. An active member of the crypto ecosystem for the past five years, Nate is focused on growing a world-class business that makes education more accessible and impactful across the world.
 
 ### Scott Collins (Brisbane)
-Scott is a documentary filmmaker, ...
+Scott is a documentary filmmaker who has been deeply engaged with Cardano since 2017. He participated in the Incentivised Testnet (ITN), contributed during the formation of CIP-1694 (Cardano’s governance framework), and engaged in the platform’s governance evolution. He exhibited work as a guest artist at the inaugural Rare conference in 2022 and again in 2023. Scott maintains a keen interest in the future of blockchain and distributed technologies.
 
 ### Blane Edwards (Perth)
-Blane is
+Profile information here ...
+
+### Corinne Phillips
+Profile information here ...
+
+### Oscar Portman
+Profile information here ...
+
+
 
 </div>
 <div class="section" markdown="1">
