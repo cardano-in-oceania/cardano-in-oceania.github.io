@@ -93,7 +93,7 @@ Nathan is a passionate educator and entrepreneur who has taught Maths, Science, 
 Scott is a documentary filmmaker who has been deeply engaged with Cardano since 2017. He participated in the Incentivised Testnet (ITN), contributed during the formation of CIP-1694 (Cardano’s governance framework), and engaged in the platform’s governance evolution. He exhibited work as a guest artist at the inaugural Rare conference in 2022 and again in 2023. Scott maintains a keen interest in the future of blockchain and distributed technologies.
 
 ### Blane Edwards (Perth)
-Profile information here ...
+Blane is an architect exploring the intersection of technology and impact. He first discovered Cardano in 2017 after watching Charles Hoskinson’s whiteboard video, and was drawn to the project’s vision of building an alternative digital infrastructure for humanity, grounded in values of transparency, inclusivity, accountability, and resilience. Since 2021, Blane has been actively contributing to the Cardano ecosystem, working on projects that reflect a belief in decentralised systems as tools for meaningful and lasting change.
 
 ### Corinne Phillips (Sydney)
 Profile information here ...

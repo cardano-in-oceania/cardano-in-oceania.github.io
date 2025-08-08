@@ -171,3 +171,14 @@ KPIs for marketing include the number of content pieces produced (target: at lea
 By integrating community voice, paid reach, partnership networks, and authentic storytelling, our marketing efforts will ensure the Oceania strategy not only delivers results on the ground, but that those results are seen and amplified, attracting further support and talent into the ecosystem.
 
 </div>
+
+<div class="section" markdown="1">
+
+## Cardanoの生きがい - Ikigai - Deposit Reimbursement
+In September 2024, only weeks after the Chang hard fork to introduce on-chain governance, an Info governance action titled [Cardanoの生きがい - Ikigai -](https://adastat.net/governances/59fd353253eb177e2104e8f23ea4c63e3d32ef95c7865d03e90d3884424dc1db00) was submitted. This was only a symbolic governance action, as it simply asked the community whether they agreed with a statement thanking those that helped get Cardano to this point and expressing a sense of hope for the future.
+
+Unfortunately, due to a bug in the code of the Cardano node that permitted an unregistered stake key to be used in the governance action, the submitter was unable to recover their deposit of 100K ada. While the community expressed at the time the importance of reimbursing this deposit via a treasury withdrawal; once the ability to do so became available, following the Plomin hard fork; unfortunately none of the entity based budget submisisons have included this.
+
+As a fully community-led initiative, we therefore felt it was important to take the opportunity to include this deposit reimbursement in our budget Info goverance action.
+
+</div>

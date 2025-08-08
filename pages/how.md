@@ -19,9 +19,10 @@ The following table summarises the proposed budget for the Cardano in Oceania in
 | Community Events & Workshops | 75,000 | \~20 local in-person events across the region, plus governance/education workshops. |
 | Monthly Town Halls (Virtual) | 5,000 | 24 online sessions over 2 years (covering any platform fees, host stipends). |
 | Marketing & Communications | 60,000 | Community content fund, paid ads, media sponsorships, video production, and PR agency support. |
+| Cardanoの生きがい - Ikigai - Deposit Reimbursement | 100,000 | Fulfilling the wish of the Cardano community to reimburse a lost goverance action deposit. |
 | Contingency | 15,000 | Reserve for unplanned costs. |
 | Administration & Audits | 18,000 | Fund management and reporting. |
-| **Grand Total (2025–2026)** | **583,000** |
+| **Grand Total (2025–2026)** | **683,000** |
 
 This budget reflects a significant investment designed to achieve a step-change in Cardano’s presence in Oceania. We expect to leverage this funding efficiently by also seeking in-kind support and partnerships – for instance, event co-sponsorships could reduce our net costs, and content created by the community often exceeds the value of the modest grants provided.
 
@@ -44,7 +45,7 @@ This timeline outlines the phased rollout of the Cardano in Oceania strategy, in
 - **Local Events:** Begin in-person events in 2–3 key cities and monthly virtual town halls.
 
 **Milestone:**  
-✅ Strategy launched; BD team operational; Bootcamp 1 complete; hackathon planning underway; mapping effort initiated.
+Strategy launched; BD team operational; Bootcamp 1 complete; hackathon planning underway; mapping effort initiated.
 
 ### **Q1 2026 – Partner Outreach & Hackathon Setup**
 - **Partner Engagement:** Begin outreach to BD targets (companies, universities, NGOs); initiate discussions for pilot collaborations.
@@ -55,7 +56,7 @@ This timeline outlines the phased rollout of the Cardano in Oceania strategy, in
 - **Governance Prep:** Schedule and promote upcoming governance workshops on Catalyst, CIPs, and constitutional engagement.
 
 **Milestone:**  
-✅ 50%+ of hackathon slots pre-registered; outreach to 5+ target partners underway; ecosystem collaborations initiated.
+50%+ of hackathon slots pre-registered; outreach to 5+ target partners underway; ecosystem collaborations initiated.
 
 ### **Q2 2026 – Hackathon Delivery & Post-Event Momentum**
 - **Hackathon Execution:** Deliver the **Oceania Hackathon 2026** (target: 100+ attendees, 20+ dApp/project prototypes). Focus areas: SSI/identity, supply chain, social finance.
@@ -66,7 +67,7 @@ This timeline outlines the phased rollout of the Cardano in Oceania strategy, in
 - **Storytelling Launch:** Begin production of video/documentary content spotlighting hackathon teams or regional partnerships.
 
 **Milestone:**  
-✅ Hackathon delivered; ecosystem map published; 3+ projects progressing beyond the event; mentorship pathways engaged.
+Hackathon delivered; ecosystem map published; 3+ projects progressing beyond the event; mentorship pathways engaged.
 
 ### **Q3 2026 – Incubation, Reflection & Decision Point**
 - **Project Incubation:** Provide ongoing support to top hackathon projects or BD collaborations entering pilot stage (e.g. government, NGO, or enterprise trials).
@@ -76,7 +77,7 @@ This timeline outlines the phased rollout of the Cardano in Oceania strategy, in
 - **Marketing Push:** Publish blog series or mini-documentary: "Projects to Watch in Oceania."
 
 **Milestone:**  
-✅ At least one Cardano-based solution in pilot; Capstone decision finalized; early success stories promoted.
+At least one Cardano-based solution in pilot; Capstone decision finalized; early success stories promoted.
 
 ### **Q4 2026 – Capstone Event & Final Reporting**
 - **Capstone Event (optional):** If approved, execute the **Cardano Oceania Capstone Showcase** or regional **Summit side-event**. Present hackathon outcomes, BD wins, governance progress, and community growth.
@@ -85,7 +86,7 @@ This timeline outlines the phased rollout of the Cardano in Oceania strategy, in
 - **Transition Planning:** Propose and begin executing continuity options: e.g. transitioning to a **DAO**, integrating with Intersect governance, or preparing a follow-on funding proposal.
 
 **Milestone:**  
-✅ Final report delivered; all program KPIs assessed; continuity strategy supported by community.
+Final report delivered; all program KPIs assessed; continuity strategy supported by community.
 
 Throughout the timeline, monitoring and evaluation will be continuous. Each quarter will have defined targets (number of events held, people reached, etc.), and we will use these to course-correct. The timeline also retains flexibility – for instance, if an opportunity arises to collaborate on a national-level project in 2026, we might reallocate some event budget to support that, as long as it aligns with our objectives.
 
