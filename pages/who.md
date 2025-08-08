@@ -8,6 +8,8 @@ permalink: /who/
 <div class="section" markdown="1">
 
 ## Community Leaders
+Whether executing a community initiative like ours or a private business project, strong leadership is important for ensuring the proposed program of work is effectively coordinated and that there is accountability for delivering against the objectives. Our community leaders have a long-standing reputation in the Cardano ecosystem, both locally and globally, with experience necessary to help achieve our strategic goals.
+
 ### Jo Allum
 Profile information here ...
 
@@ -23,7 +25,9 @@ Beyond education, Peter builds infrastructure tools and champions decentralised 
 %}
 
 ### Peter Horsfall 
-As an active Cardano community member since 2021, Peter has served as a Delegate Representative (DRep) since 2024, contributing to the ecosystem’s governance. Nominated by his peers, he had the honour of signing the Cardano Constitution in Argentina, a significant milestone. Peter has hosted meetups and workshops in Melbourne and Sydney and played a key role in organising Cardano’s only booth at the 2024 Australia Crypto Convention in Sydney.  With over a decade of experience in finance, Peter works at National Australia Bank (NAB), specialising in legal operations and transformation through emerging technologies. He brings his expertise, networks, and enthusiasm to strengthen Cardano’s presence in Oceania and beyond.
+As an active Cardano community member since 2021, Peter has served as a Delegate Representative (DRep) since 2024, contributing to the ecosystem’s governance. Nominated by his peers, he had the honour of signing the Cardano Constitution in Argentina, a significant milestone. Peter has hosted meetups and workshops in Melbourne and Sydney and played a key role in organising Cardano’s only booth at the 2024 Australia Crypto Convention in Sydney.
+
+With over a decade of experience in finance, Peter works at National Australia Bank (NAB), specialising in legal operations and transformation through emerging technologies. He brings his expertise, networks, and enthusiasm to strengthen Cardano’s presence in Oceania and beyond.
 
 {% include social-links.html 
   x="blockchain_pete" 
@@ -34,7 +38,7 @@ As an active Cardano community member since 2021, Peter has served as a Delegate
 ### Phil Lewis
 Phil is a long-time Cardano community member and certified Enterprise Architect with over 25 years of experience in enterprise and government IT. He has led in-person Cardano events across Australia, delivered a governance workshop as a DRep Pioneer Program leader, and spoke at the 2024 Australian Crypto Convention on Cardano’s unique capabilities and the introduction of decentralised governance ([watch here](https://www.youtube.com/watch?v=AEDqdm6_46M)).
 
-As the CEO of Vaka Consulting, Phil brings hands-on experience building impact-focused blockchain solutions. His background working with large organisations and securing partnerships makes him well-positioned to support the business development goals of Cardano in Oceania. Phil also serves on the Intersect Steering Committee and chairs the Enterprise & Government Adoption Working Group.
+As the CEO of Vaka Consulting, Phil brings hands-on experience building impact-focused blockchain solutions. His background working with large organisations and securing partnerships makes him well-positioned to support the business development goals of Cardano in Oceania. Phil also serves on the Intersect Steering Committee and is Chair of the Enterprise & Government Adoption Working Group.
 
 {% include social-links.html 
   x="phillewisit" 
@@ -47,6 +51,8 @@ As the CEO of Vaka Consulting, Phil brings hands-on experience building impact-f
 <div class="section" markdown="1">
 
 ## Sponsors & Partners
+While we have an enthusiastic group of individuals who are passionate to see Cardano grow in Oceania, we acknowledge that passion alone isn't enough to achieve our objectives, and that many organisations also have a vested interest in seeing Cardano thrive.  We are therefore appreciative of the support that organisations in our region have already given to our ecosystem and who are committed to continue supporting us through this project.  They bring co-funding (through sponsorship), infrastructure & tools, as well as case studies or lessons learned from Cardano based projects.  This helps provide efficiency to everyone’s contributions, better utilisation of funds and more effective outcomes that are aimed at delivering real world solutions. 
+
 ### Executive Portlets
 Profile information here ...
 
@@ -63,6 +69,10 @@ Profile information here ...
 
 ### Vaka Consulting
 Vaka Consulting are a solutions design company, who partner with businesses looking to leverage decentralised technology. They sponsored several Cardano events last year, funding venues, catering and merchandise. They were also the lead logistics coordinator for the Intersect/Cardano booth at the 2024 Australian Crypto Convention.
+
+The team specialise in creating solutions that deliver real world value, such as being the core technology partner for the Empowa project.  They are currently working on projects such as:
+- A financing solution for a green asset distributor in Kenya.
+- An Article 6.4 compliant carbon credit registry and marketplace in Australia.
 
 {% include social-links.html
   website="https://vakaconsulting.io" 
@@ -86,6 +96,8 @@ Profile information here ...
 <div class="section" markdown="1">
 
 ## Supporters & Contributors
+People are at the heart of this grassroots initiative and Oceania is fortunate to have a strong community of people who have been contributing to Cardano for many years.  These are just some of the people who regularly step up and are ready to go, with many more excited to contribute.
+
 ### Nathan Barkell (Perth)
 Nathan is a passionate educator and entrepreneur who has taught Maths, Science, and Health & Physical Education for over a decade. He hosted the Cardano Constitution Workshop in Perth, Western Australia, and was elected as the city’s delegate to attend the Cardano Constitutional Convention in Buenos Aires, where he participated in drafting and officially signing the final Constitution alongside Charles Hoskinson and fellow global delegates. An active member of the crypto ecosystem for the past five years, Nate is focused on growing a world-class business that makes education more accessible and impactful across the world.
 
