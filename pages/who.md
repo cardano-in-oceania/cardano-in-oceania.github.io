@@ -11,7 +11,15 @@ permalink: /who/
 Whether executing a community initiative like ours or a private business project, strong leadership is important for ensuring the proposed program of work is effectively coordinated and that there is accountability for delivering against the objectives. Our community leaders have a long-standing reputation in the Cardano ecosystem, both locally and globally, with experience necessary to help achieve our strategic goals.
 
 ### Jo Allum
-Profile information here ...
+Jo is a venture catalyst and ecosystem cultivator connecting Aotearoa’s innovation networks with the global Cardano community. She convened the Cardano Aotearoa Network, serves as co-founder or on the Advisory Board of all of Australian Government and NZ Government suppliers, and is a founding member of the Eastern Cardano Council. She plays strategic and governance roles in initiatives building digital public infrastructure for collective resilience — including Toha.network (nature-based markets for environmental regeneration), Mātou (polycentric Māori-led governance and digital identity systems), and the Rules as Code Guild (advancing jurisdiction-compliant, machine-readable regulations and interoperability across the world).
+
+As Founder and Director of Venture Centre Ltd, Jo has supported hundreds of innovators through mentoring, funding, navigation, and ecosystem building. She is also co-founder of yumi.ai, a multiplayer impact-investment DAO delivering modular finance protocols to fund solutions at the scale of global challenges. Across all work, Jo is committed to data sovereignty, intergenerational wellbeing, and ensuring the systems we build cannot be captured by narrow self-interest.
+
+{% include social-links.html 
+  x="yojoflo" 
+  linkedin="joallum" 
+  linkedin_display="Jo Allum"
+%}
 
 ### Peter Bui
 Peter Bui is a developer and educator who bridges mainstream web technologies with Cardano. As founder of the agency Mesh With Us and creator of the CardanoPress WordPress plugin, he brings two decades of digital-tech experience to blockchain adoption. Within Cardano he runs the eco-friendly ADAOZ stake pool, is a meetup organiser and serves as a long-standing Cardano Ambassador, sharing clear, beginner-friendly insights through his popular Learn Cardano podcast and YouTube channel, which have clocked more than two million views.
@@ -61,7 +69,7 @@ Since its inception in 2010, Executive Portlets Pty Ltd has been a trusted partn
 %}
 
 ### TokenFlows
-Profile information here ...
+Tokenflows equips builders with the tools to practice Token Engineering on EUTxO chains like Cardano. Through hands‑on tutorials and simulations—spanning mechanism design, cadCAD modelling, market dynamics, canvases, and more—it translates complex token economics into learnable and deployable systems. Designed for those ready to move beyond theory and prototype with rigour new economic systems.
 
 {% include social-links.html
   website="https://tokenflows.xyz/" 
@@ -79,14 +87,16 @@ The team specialise in creating solutions that deliver real world value, such as
 %}
 
 ### Venture Centre
-Profile information here ...
+Venture Centre enables entrepreneurial ecosystems where courageous people coordinate — and coordination creates change. Based in Tauranga Moana, we connect innovators to the tools and talent in the Cardano community. We support the design and launch of systems that serve communities, not just markets — from digital public infrastructure and data sovereignty products, to nature-based markets and polycentric governance models. Our work spans initiatives such as Toha.network, Mātou, the Rules-as-Code Guild, and the Cardano Aotearoa Network, ensuring Aotearoa’s perspectives are included in shaping global innovation.
+
+Venture Centre bridges local ingenuity with global networks to channel capital, skills, and relationships into high-integrity, impact-driven projects.
 
 {% include social-links.html
-  website="https://www.venturecentre.io/" 
+  website="https://venturecentre.io/" 
 %}
 
 ### yūmi.ai
-Profile information here ...
+yūmi is building modular, multiplayer impact-investing tooling on Cardano. In partnership with NZ government agencies like the Ministry for Culture and Heritage and New Zealand’s Social Investment Agency, yūmi co-designs digital public infrastructure that blends cultural wisdom, social impact, financial and economic coordination.
 
 {% include social-links.html
   website="https://yumi.ai/" 

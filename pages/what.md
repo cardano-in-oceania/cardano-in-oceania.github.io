@@ -3,12 +3,12 @@ layout: default
 title: What?
 permalink: /what/
 ---
-# Objectives: What do we aim to achieve?
+# Objectives: What do we plan to do?
 
 <div class="section" markdown="1">
 
 ## Business Development & Capacity-Building Program
-To unlock Oceania’s potential, we will establish a robust business development (BD) capacity-building track. This program will connect and resource local Cardano advocates to drive adoption, and forge strategic partnerships across the region in government and enterprise vertices – creating a template that can scale globally.
+To unlock Oceania’s potential, we will establish a robust business development (BD) capacity-building track. This program will connect and resource local Cardano advocates to drive adoption, and forge strategic partnerships across the region in government and enterprise verticals – creating a template that can scale globally.
 
 Key components of the BD track include:
 
@@ -106,11 +106,11 @@ We will organise a dedicated Cardano hackathon in 2026. This will likely be host
 ### Local Community Events & Workshops
 In addition to a larger hackathon, grassroots events will be held regularly across the region:
 
-- **In-Person Events:** We will support at least 20 in-person events over 2025–26 across key cities such as Perth, Brisbane, Sydney, Melbourne, Auckland, Wellington, and possibly one or two in Pacific Island capitals like Suva or Port Moresby. These events (budgeted at ≈₳2,500 each for venue, refreshments, and a small host stipend) will include a mix of Cardano focused and partner events to connect with other blockchain/crypto and technology communities.
+- **In-Person Events:** We will support at least 20 in-person events over 2025–26 across key cities such as Perth, Brisbane, Sydney, Melbourne, Tauranga, Auckland, Wellington, and possibly one or two in Pacific Island capitals like Suva or Port Moresby. These events (budgeted at ≈₳2,500 each for venue, refreshments, and a small host stipend) will include a mix of Cardano focused and partner events to connect with other blockchain/crypto and technology communities.
 
   The aim is to provide variation in topics and knowledge/experience levels, with sessions from introductory (for those new to blockchain) through to deep dives with subject matter experts. They will also provide engagement with enterprise, government and industry representative groups who are blockchain curious, to provide sessions aimed at expanding the potential use cases for Cardano as high assurance decentralised infrastructure.
 
-- **Cardano “Town Halls”:** We will continue the practice of regular virtual town halls (e.g. one per month) dedicated to Oceania time zones. These Zoom sessions will share project updates, allow community Q&A, and give a platform to highlight regional progress. We have budgeted a modest amount (≈₳200 per session) for any necessary software or hosting fees, totaling ~₳5,000 for two years to run ~24 sessions. These ensure inclusivity for those who cannot attend in person and keep momentum between physical events.
+- **Cardano “Town Halls”:** We will continue the practice of regular virtual town halls (e.g. one per month) dedicated to Oceania time zones. These Zoom sessions will share project updates, allow community Q&A, and give a platform to highlight regional progress. We have budgeted for any necessary software or hosting fees, as well host and support team stipends, totaling ~₳5,000. These ensure inclusivity for those who cannot attend in person and keep momentum between physical events.
 
 - **Governance & Education Workshops:** As Cardano explores the Voltaire era (on-chain governance), we aim to educate and empower the Oceania community in governance processes. We plan a series of 3–4 workshops (some in-person, some virtual) on topics like Cardano Problem Statements (CPSs) and Improvement Proposals (CIPs), community voting, and the amendment of the Cardano Constitution. These workshops (budgeted \~$10k total to cover materials and any guest speaker travel) will help Oceania community members become active participants in Cardano’s governance (e.g. becoming Catalyst proposers, Community Advisors, or even elected representatives in future governance structures). This not only strengthens decentralisation but also positions Oceania's voices in global Cardano decision-making.
 
@@ -179,6 +179,6 @@ In September 2024, only weeks after the Chang hard fork to introduce on-chain go
 
 Unfortunately, due to a bug in the code of the Cardano node that permitted an unregistered stake key to be used in the governance action, the submitter was unable to recover their deposit of 100K ada. While the community expressed at the time the importance of reimbursing this deposit via a treasury withdrawal; once the ability to do so became available, following the Plomin hard fork; unfortunately none of the entity based budget submisisons have included this.
 
-As a fully community-led initiative, we therefore felt it was important to take the opportunity to include this deposit reimbursement in our budget Info goverance action.
+As a fully community-led initiative, we therefore felt it was important to take this opportunity to carry out the community's wish, by including the deposit reimbursement in our budget Info goverance action.
 
 </div>

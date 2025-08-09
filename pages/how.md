@@ -15,9 +15,9 @@ The following table summarises the proposed budget for the Cardano in Oceania in
 | Business Development Program | 120,000 | Contract an Oceania BD team, run BD bootcamps, partner outreach travel. |
 | Australian Crypto Convention | 120,000 | Sponsorship package, booth branding and furnishing, promotional material. Cardano side event. |
 | Ecosystem Mapping & Activation | 50,000 | Tools, coordinator stipend, surveys for community mapping. |
-| Hackathon | 120,000 | Major Oceania Hackathon – venue, logistics, prizes, marketing, mentorship support, some travel grants for participants (based on Berlin hackathon \~₳100k benchmark) |
+| Hackathon | 120,000 | Major Oceania Hackathon – venue, logistics, prizes, marketing, mentorship support, some travel grants for participants, plus sponsorship of industry hackathons |
 | Community Events & Workshops | 75,000 | \~20 local in-person events across the region, plus governance/education workshops. |
-| Monthly Town Halls (Virtual) | 5,000 | 24 online sessions over 2 years (covering any platform fees, host stipends). |
+| Monthly Town Halls (Virtual) | 5,000 | 12 online sessions, covering platform fees, host stipends, etc. |
 | Marketing & Communications | 60,000 | Community content fund, paid ads, media sponsorships, video production, and PR agency support. |
 | Cardanoの生きがい - Ikigai - Deposit Reimbursement | 100,000 | Fulfilling the wish of the Cardano community to reimburse a lost goverance action deposit. |
 | Contingency | 15,000 | Reserve for unplanned costs. |
