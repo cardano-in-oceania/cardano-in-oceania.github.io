@@ -54,7 +54,7 @@ As the CEO of Vaka Consulting, Phil brings hands-on experience building impact-f
 While we have an enthusiastic group of individuals who are passionate to see Cardano grow in Oceania, we acknowledge that passion alone isn't enough to achieve our objectives, and that many organisations also have a vested interest in seeing Cardano thrive.  We are therefore appreciative of the support that organisations in our region have already given to our ecosystem and who are committed to continue supporting us through this project.  They bring co-funding (through sponsorship), infrastructure & tools, as well as case studies or lessons learned from Cardano based projects.  This helps provide efficiency to everyone’s contributions, better utilisation of funds and more effective outcomes that are aimed at delivering real world solutions. 
 
 ### Executive Portlets
-Profile information here ...
+Since its inception in 2010, Executive Portlets Pty Ltd has been a trusted partner in the project and program management sector, now marking 15 years of dedicated service. Headquartered in Australia, the company focuses on enabling confident and secure sharing of project data, helping professionals streamline operations and enhance collaboration in complex environments.
 
 {% include social-links.html
   website="https://www.executiveportlets.com.au/" 
