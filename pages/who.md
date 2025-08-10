@@ -123,6 +123,11 @@ Profile information here ...
 ### Oscar Portman (Sydney)
 Profile information here ...
 
+### Scott Young (Melbourne)
+Profile information here ...
+{% include social-links.html
+  website="https://themoralcube.com/"
+
 </div>
 <div class="section" markdown="1">
 
