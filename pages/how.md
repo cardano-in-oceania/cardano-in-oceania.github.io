@@ -22,7 +22,7 @@ The following table summarises the proposed budget for the Cardano in Oceania in
 | Cardanoの生きがい - Ikigai - Deposit Reimbursement | 100,000 | Fulfilling the wish of the Cardano community to reimburse a lost goverance action deposit. |
 | Contingency | 15,000 | Reserve for unplanned costs. |
 | Administration & Audits | 18,000 | Fund management and reporting. |
-| **Grand Total (2025–2026)** | **683,000** |
+| **Total (2025–2026)** | **683,000** |
 
 This budget reflects a significant investment designed to achieve a step-change in Cardano’s presence in Oceania. We expect to leverage this funding efficiently by also seeking in-kind support and partnerships – for instance, event co-sponsorships could reduce our net costs, and content created by the community often exceeds the value of the modest grants provided.
 

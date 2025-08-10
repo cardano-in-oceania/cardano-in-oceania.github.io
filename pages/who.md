@@ -10,6 +10,8 @@ permalink: /who/
 ## Community Leaders
 Whether executing a community initiative like ours or a private business project, strong leadership is important for ensuring the proposed program of work is effectively coordinated and that there is accountability for delivering against the objectives. Our community leaders have a long-standing reputation in the Cardano ecosystem, both locally and globally, with experience necessary to help achieve our strategic goals.
 
+---
+
 ### Jo Allum
 Jo is a venture catalyst and ecosystem cultivator connecting Aotearoa’s innovation networks with the global Cardano community. She convened the Cardano Aotearoa Network, serves as co-founder or on the Advisory Board of all of Australian Government and NZ Government suppliers, and is a founding member of the Eastern Cardano Council. She plays strategic and governance roles in initiatives building digital public infrastructure for collective resilience — including Toha.network (nature-based markets for environmental regeneration), Mātou (polycentric Māori-led governance and digital identity systems), and the Rules as Code Guild (advancing jurisdiction-compliant, machine-readable regulations and interoperability across the world).
 
@@ -21,8 +23,10 @@ As Founder and Director of Venture Centre Ltd, Jo has supported hundreds of inno
   linkedin_display="Jo Allum"
 %}
 
+---
+
 ### Peter Bui
-Peter Bui is a developer and educator who bridges mainstream web technologies with Cardano. As founder of the agency Mesh With Us and creator of the CardanoPress WordPress plugin, he brings two decades of digital-tech experience to blockchain adoption. Within Cardano he runs the eco-friendly ADAOZ stake pool, is a meetup organiser and serves as a long-standing Cardano Ambassador, sharing clear, beginner-friendly insights through his popular Learn Cardano podcast and YouTube channel, which have clocked more than two million views.
+Peter is a developer and educator who bridges mainstream web technologies with Cardano. As founder of the agency Mesh With Us and creator of the CardanoPress WordPress plugin, he brings two decades of digital-tech experience to blockchain adoption. Within Cardano he runs the eco-friendly ADAOZ stake pool, is a meetup organiser and serves as a long-standing Cardano Ambassador, sharing clear, beginner-friendly insights through his popular Learn Cardano podcast and YouTube channel, which have clocked more than two million views.
 
 Beyond education, Peter builds infrastructure tools and champions decentralised governance. CardanoPress helps WordPress sites connect directly to Cardano wallets, lowering barriers for new users, while his weekly news digests and community round-tables keep delegators up to date on DeFi, infrastructure, and funding debates. In 2025 he expanded his impact by standing as a DRep, promising transparent voting on treasury and governance proposals and reinforcing his commitment to responsible, community-driven network growth.
 
@@ -31,6 +35,8 @@ Beyond education, Peter builds infrastructure tools and champions decentralised 
   linkedin="peterbui1" 
   linkedin_display="Peter Bui"
 %}
+
+---
 
 ### Peter Horsfall 
 As an active Cardano community member since 2021, Peter has served as a Delegate Representative (DRep) since 2024, contributing to the ecosystem’s governance. Nominated by his peers, he had the honour of signing the Cardano Constitution in Argentina, a significant milestone. Peter has hosted meetups and workshops in Melbourne and Sydney and played a key role in organising Cardano’s dedicated booth at the 2024 Australia Crypto Convention in Sydney.
@@ -42,6 +48,8 @@ With over a decade of experience in finance, Peter works at National Australia B
   linkedin="peterhorsfall" 
   linkedin_display="Peter Horsfall"
 %}
+
+---
 
 ### Phil Lewis
 Phil is a long-time Cardano community member and certified Enterprise Architect with over 25 years of experience in enterprise and government IT. He has led in-person Cardano events across Australia, delivered a governance workshop as a DRep Pioneer Program leader, and spoke at the 2024 Australian Crypto Convention on Cardano’s unique capabilities and the introduction of decentralised governance ([watch here](https://www.youtube.com/watch?v=AEDqdm6_46M)).
@@ -61,6 +69,8 @@ As the CEO of Vaka Consulting, Phil brings hands-on experience building impact-f
 ## Sponsors & Partners
 While we have an enthusiastic group of individuals who are passionate to see Cardano grow in Oceania, we acknowledge that passion alone isn't enough to achieve our objectives, and that many organisations also have a vested interest in seeing Cardano thrive.  We are therefore appreciative of the support that organisations in our region have already given to our ecosystem and who are committed to continue supporting us through this project.  They bring co-funding (through sponsorship), infrastructure & tools, as well as case studies or lessons learned from Cardano based projects.  This helps provide efficiency to everyone’s contributions, better utilisation of funds and more effective outcomes that are aimed at delivering real world solutions. 
 
+---
+
 ### Executive Portlets
 Since its inception in 2010, Executive Portlets Pty Ltd has been a trusted partner in the project and program management sector, now marking 15 years of dedicated service. Headquartered in Australia, the company focuses on enabling confident and secure sharing of project data, helping professionals streamline operations and enhance collaboration in complex environments.
 
@@ -68,12 +78,16 @@ Since its inception in 2010, Executive Portlets Pty Ltd has been a trusted partn
   website="https://www.executiveportlets.com.au/" 
 %}
 
+---
+
 ### TokenFlows
 Tokenflows equips builders with the tools to practice Token Engineering on EUTxO chains like Cardano. Through hands‑on tutorials and simulations—spanning mechanism design, cadCAD modelling, market dynamics, canvases, and more—it translates complex token economics into learnable and deployable systems. Designed for those ready to move beyond theory and prototype with rigour new economic systems.
 
 {% include social-links.html
   website="https://tokenflows.xyz/" 
 %}
+
+---
 
 ### Vaka Consulting
 Vaka Consulting are a solutions design company, who partner with businesses looking to leverage decentralised technology. They sponsored several Cardano events last year, funding venues, catering and merchandise. They were also the lead logistics coordinator for the Intersect/Cardano booth at the 2024 Australian Crypto Convention.
@@ -86,6 +100,8 @@ The team specialise in creating solutions that deliver real world value, such as
   website="https://vakaconsulting.io" 
 %}
 
+---
+
 ### Venture Centre
 Venture Centre enables entrepreneurial ecosystems where courageous people coordinate — and coordination creates change. Based in Tauranga Moana, we connect innovators to the tools and talent in the Cardano community. We support the design and launch of systems that serve communities, not just markets — from digital public infrastructure and data sovereignty products, to nature-based markets and polycentric governance models. Our work spans initiatives such as Toha.network, Mātou, the Rules-as-Code Guild, and the Cardano Aotearoa Network, ensuring Aotearoa’s perspectives are included in shaping global innovation.
 
@@ -94,6 +110,8 @@ Venture Centre bridges local ingenuity with global networks to channel capital, 
 {% include social-links.html
   website="https://venturecentre.io/" 
 %}
+
+---
 
 ### yūmi.ai
 yūmi is building modular, multiplayer impact-investing tooling on Cardano. In partnership with NZ government agencies like the Ministry for Culture and Heritage and New Zealand’s Social Investment Agency, yūmi co-designs digital public infrastructure that blends cultural wisdom, social impact, financial and economic coordination.
@@ -123,13 +141,13 @@ Profile information here ...
 ### Oscar Portman (Sydney)
 Profile information here ...
 
+### Alex Roose (Sydney)
+Alex is a senior executive with over 15 years’ experience in SaaS, AI, and blockchain, specialising in driving growth and scale for high-potential businesses. He was part of the APAC founding team of HubSpot, served as Director at ActiveCampaign, and most recently held the role of Global Director at Immutable X, where he led international expansion and strategic partnerships.
+
+Today, Alex channels his expertise into angel investing and ecosystem building. His portfolio includes Coinstash (CEX), Tribe (Large KOL platform) and over a dozen Angel Investments in Cardano projects. Alex is also the Director at Mynth, a leading cross-chain solution built on Cardano. Alex’s work bridges commercial growth with emerging technology adoption, helping to connect innovative ventures with the networks, capital, and strategies they need to succeed.
+
 ### Scott Young (Melbourne)
 Scott is a moral philosopher exploring the foundations of morality through a concept called The Moral Cube. He has been a member of the Cardano community since 2021, and is investigating ways to teach people about, and help them make more informed moral judgements utilizing smart contracts for the last few years.
-
-{% include social-links.html
-  website="https://themoralcube.com/
-  linkedin="scott-m-young" 
-  linkedin_display="Scott Young"
 
 </div>
 <div class="section" markdown="1">
