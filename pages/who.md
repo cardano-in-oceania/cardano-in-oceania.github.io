@@ -135,6 +135,9 @@ Scott is a documentary filmmaker who has been deeply engaged with Cardano since 
 ### Blane Edwards (Perth)
 Blane is an architect exploring the intersection of technology and impact. He first discovered Cardano in 2017 after watching Charles Hoskinson’s whiteboard video, and was drawn to the project’s vision of building an alternative digital infrastructure for humanity, grounded in values of transparency, inclusivity, accountability, and resilience. Since 2021, Blane has been actively contributing to the Cardano ecosystem, working on projects that reflect a belief in decentralised systems as tools for meaningful and lasting change.
 
+### Gareth Farry (Auckland)
+Creative producer, cultural technologist and law innovator, Gareth is working on the design of plural governance systems, and secure ZK identity on Cardano, Ap3x Fusion and Midnight. His work bridges human rights advocacy and blockchain architecture, modelling a Human Rights DAO and token framework capable of operating across 70+ countries and 10+ million people in Amnesty International’s network. His approach integrates cultural worldviews, common law principles, and decentralised decision-making, using Cardano’s infrastructure to prototype governance that is equitable, transparent, and rooted in the lived realities of diverse communities.  More information is available on his website at [https://www.garethfarry.com/projects](https://www.garethfarry.com/projects){:target="_blank"}.
+
 ### Corinne Phillips (Sydney)
 Profile information here ...
 
@@ -144,10 +147,10 @@ Profile information here ...
 ### Alex Roose (Sydney)
 Alex is a senior executive with over 15 years’ experience in SaaS, AI, and blockchain, specialising in driving growth and scale for high-potential businesses. He was part of the APAC founding team of HubSpot, served as Director at ActiveCampaign, and most recently held the role of Global Director at Immutable X, where he led international expansion and strategic partnerships.
 
-Today, Alex channels his expertise into angel investing and ecosystem building. His portfolio includes Coinstash (CEX), Tribe (Large KOL platform) and over a dozen Angel Investments in Cardano projects. Alex is also the Director at Mynth, a leading cross-chain solution built on Cardano. Alex’s work bridges commercial growth with emerging technology adoption, helping to connect innovative ventures with the networks, capital, and strategies they need to succeed.
+Today, Alex channels his expertise into angel investing and ecosystem building. His portfolio includes [Coinstash (CEX)](https://coinstash.com.au/){:target="_blank"}, [Tribe (Large KOL platform)](https://www.tribegroup.co/){:target="_blank"} and over a dozen Angel Investments in Cardano projects. Alex is also the Director at [Mynth](https://www.mynth.ai/){:target="_blank"}, a leading cross-chain solution built on Cardano. Alex’s work bridges commercial growth with emerging technology adoption, helping to connect innovative ventures with the networks, capital, and strategies they need to succeed.
 
 ### Scott Young (Melbourne)
-Scott is a moral philosopher exploring the foundations of morality through a concept called The Moral Cube. He has been a member of the Cardano community since 2021, and is investigating ways to teach people about, and help them make more informed moral judgements utilizing smart contracts for the last few years.
+Scott is a moral philosopher exploring the foundations of morality through a concept called [The Moral Cube](https://themoralcube.com/){:target="_blank"}. He has been a member of the Cardano community since 2021, and is investigating ways to teach people about, and help them make more informed moral judgements utilizing smart contracts for the last few years.
 
 </div>
 <div class="section" markdown="1">
