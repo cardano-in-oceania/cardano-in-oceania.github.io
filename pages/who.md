@@ -33,7 +33,7 @@ Beyond education, Peter builds infrastructure tools and champions decentralised 
 %}
 
 ### Peter Horsfall 
-As an active Cardano community member since 2021, Peter has served as a Delegate Representative (DRep) since 2024, contributing to the ecosystem’s governance. Nominated by his peers, he had the honour of signing the Cardano Constitution in Argentina, a significant milestone. Peter has hosted meetups and workshops in Melbourne and Sydney and played a key role in organising Cardano’s only booth at the 2024 Australia Crypto Convention in Sydney.
+As an active Cardano community member since 2021, Peter has served as a Delegate Representative (DRep) since 2024, contributing to the ecosystem’s governance. Nominated by his peers, he had the honour of signing the Cardano Constitution in Argentina, a significant milestone. Peter has hosted meetups and workshops in Melbourne and Sydney and played a key role in organising Cardano’s dedicated booth at the 2024 Australia Crypto Convention in Sydney.
 
 With over a decade of experience in finance, Peter works at National Australia Bank (NAB), specialising in legal operations and transformation through emerging technologies. He brings his expertise, networks, and enthusiasm to strengthen Cardano’s presence in Oceania and beyond.
 
@@ -124,9 +124,12 @@ Profile information here ...
 Profile information here ...
 
 ### Scott Young (Melbourne)
-Profile information here ...
+Scott is a moral philosopher exploring the foundations of morality through a concept called The Moral Cube. He has been a member of the Cardano community since 2021, and is investigating ways to teach people about, and help them make more informed moral judgements utilizing smart contracts for the last few years.
+
 {% include social-links.html
-  website="https://themoralcube.com/"
+  website="https://themoralcube.com/
+  linkedin="scott-m-young" 
+  linkedin_display="Scott Young"
 
 </div>
 <div class="section" markdown="1">
