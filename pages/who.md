@@ -80,6 +80,15 @@ Since its inception in 2010, Executive Portlets Pty Ltd has been a trusted partn
 
 ---
 
+### Mātou Collective
+Mātou Collective develops resilient digital public infrastructure for Māori and other Indigenous peoples, built on Cardano. Its work spans digital identity, DAO governance tools, and tokenised economies designed to protect data sovereignty, enable community self-determination, and enable equitable participation in the global digital economy.
+
+{% include social-links.html
+  website="https://www.matou.nz/" 
+%}
+
+---
+
 ### TokenFlows
 Tokenflows equips builders with the tools to practice Token Engineering on EUTxO chains like Cardano. Through hands‑on tutorials and simulations—spanning mechanism design, cadCAD modelling, market dynamics, canvases, and more—it translates complex token economics into learnable and deployable systems. Designed for those ready to move beyond theory and prototype with rigour new economic systems.
 
@@ -137,6 +146,9 @@ Blane is an architect exploring the intersection of technology and impact. He fi
 
 ### Gareth Farry (Auckland)
 Creative producer, cultural technologist and law innovator, Gareth is working on the design of plural governance systems, and secure ZK identity on Cardano, Ap3x Fusion and Midnight. His work bridges human rights advocacy and blockchain architecture, modelling a Human Rights DAO and token framework capable of operating across 70+ countries and 10+ million people in Amnesty International’s network. His approach integrates cultural worldviews, common law principles, and decentralised decision-making, using Cardano’s infrastructure to prototype governance that is equitable, transparent, and rooted in the lived realities of diverse communities.  More information is available on his website at [https://www.garethfarry.com/projects](https://www.garethfarry.com/projects){:target="_blank"}.
+
+### Engie Matene (Ngāti Moerewa | Ngāti Rangi | Te Hikutu - Ngapuhi | Kuki Airani)
+Engie Matene is a technology strategist and cultural advisor working at the intersection of Indigenous governance, digital identity, and blockchain innovation. As a leader within Mātou Collective, Engie bridges community priorities with technical solutions, ensuring that emerging digital systems align with Māori values and advance Indigenous self-determination.
 
 ### Corinne Phillips (Sydney)
 Corinne is passionate about nature, travel, and creating positive change. With experience in environmental and health sciences, she explores technologies that improve life on Earth. Corinne was a Cardano Constitutional Convention delegate for Australia and former Cardano Ambassador, she is committed to impactful, decentralised solutions.
