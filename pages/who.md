@@ -8,7 +8,7 @@ permalink: /who/
 <div class="section" markdown="1">
 
 ## Community Leaders
-Whether executing a community initiative like ours or a private business project, strong leadership is important for ensuring the proposed program of work is effectively coordinated and that there is accountability for delivering against the objectives. Our community leaders have a long-standing reputation in the Cardano ecosystem, both locally and globally, with experience necessary to help achieve our strategic goals.
+Whether executing a community initiative like ours or a private business project, strong leadership is important for ensuring that the proposed program of work is effectively coordinated and that there is accountability for delivering against the objectives. Our community leaders have a long-standing reputation in the Cardano ecosystem, both locally and globally, with experience necessary to help achieve our strategic goals.
 
 ---
 
@@ -139,10 +139,7 @@ Blane is an architect exploring the intersection of technology and impact. He fi
 Creative producer, cultural technologist and law innovator, Gareth is working on the design of plural governance systems, and secure ZK identity on Cardano, Ap3x Fusion and Midnight. His work bridges human rights advocacy and blockchain architecture, modelling a Human Rights DAO and token framework capable of operating across 70+ countries and 10+ million people in Amnesty International’s network. His approach integrates cultural worldviews, common law principles, and decentralised decision-making, using Cardano’s infrastructure to prototype governance that is equitable, transparent, and rooted in the lived realities of diverse communities.  More information is available on his website at [https://www.garethfarry.com/projects](https://www.garethfarry.com/projects){:target="_blank"}.
 
 ### Corinne Phillips (Sydney)
-Profile information here ...
-
-### Oscar Portman (Sydney)
-Profile information here ...
+Corinne is passionate about nature, travel, and creating positive change. With experience in environmental and health sciences, she explores technologies that improve life on Earth. Corinne was a Cardano Constitutional Convention delegate for Australia and former Cardano Ambassador, she is committed to impactful, decentralised solutions.
 
 ### Alex Roose (Sydney)
 Alex is a senior executive with over 15 years’ experience in SaaS, AI, and blockchain, specialising in driving growth and scale for high-potential businesses. He was part of the APAC founding team of HubSpot, served as Director at ActiveCampaign, and most recently held the role of Global Director at Immutable X, where he led international expansion and strategic partnerships.
