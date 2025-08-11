@@ -1,44 +1,36 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <title>{{ page.title }} &mdash; {{ site.title }}</title>
-  <link rel="stylesheet" href="{{ " /assets/css/main.css" | relative_url }}">
+  <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
 </head>
-
 <body>
   {% include header.html %}
   <div class="page-wrapper">
     {% if page.url == "/" %}
-    <section class="hero">
-      <div class="hero-text">
-        <img class="hero__logo" src="{{ " /assets/images/cio-logo.png" | relative_url }}"
-          alt="Cardano in Oceania logo" />
-        <h1 class="hero__title">Investing in Growth</h1>
-        <p class="hero__subtitle">A community-led strategic plan to grow the Cardano ecosystem in Oceania</p>
-        <div class="content">
-          {{ content }}
+      <section class="hero">
+        <div class="hero-text">
+          <img class="hero__logo" src="{{ "/assets/images/cio-logo.png" | relative_url }}" alt="Cardano in Oceania logo" />
+          <h1 class="hero__title">Investing in Growth</h1>
+          <p class="hero__subtitle">A community-led strategic plan to grow the Cardano ecosystem in Oceania</p>
         </div>
-      </div>
-      <svg class="hero__wave" viewBox="0 0 1440 320" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
-        <path fill="white"
-          d="M0,224L48,208C96,192,192,160,288,149.3C384,139,480,149,576,160C672,171,768,181,864,192C960,203,1056,213,1152,197.3C1248,181,1344,139,1392,117.3L1440,96L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z">
-        </path>
-      </svg>
-    </section>
+        <svg class="hero__wave" viewBox="0 0 1440 320" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
+          <path fill="white" d="M0,224L48,208C96,192,192,160,288,149.3C384,139,480,149,576,160C672,171,768,181,864,192C960,203,1056,213,1152,197.3C1248,181,1344,139,1392,117.3L1440,96L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z"></path>
+        </svg>
+      </section>
     {% else %}
-    <nav id="page-toc" class="page-toc"></nav>
+      <nav id="page-toc" class="page-toc"></nav>
+    {% endif %}
     <div class="content">
       {{ content }}
     </div>
-    {% endif %}
     {% include footer.html %}
   </div>
-
+  
   <script>
-    document.addEventListener("DOMContentLoaded", function () {
+    document.addEventListener("DOMContentLoaded", function() {
       const btn = document.querySelector(".menu-toggle");
       if (btn) {
         const nav = document.querySelector(".site-nav");
@@ -68,5 +60,4 @@
     });
   </script>
 </body>
-
 </html>
