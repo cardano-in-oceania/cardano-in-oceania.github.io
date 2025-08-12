@@ -98,6 +98,17 @@ Tokenflows equips builders with the tools to practice Token Engineering on EUTxO
 
 ---
 
+### Tokeo
+Tokeo, powered by Tokeo Labs Ltd, is a pioneering Web3 smart wallet deeply rooted in the Cardano ecosystem. As a Cardano-centric project, it enables seamless decentralised finance access on Cardano, with integrations for Bitcoin and SUI, and plans for further blockchain expansions.
+
+The platform offers user-friendly multi-chain swaps, staking, cross-chain transactions, and on/off-ramping solutions that prioritise security and intuitive design. As a critical infrastructure component, Tokeo is scaling Web3 adoption by partnering with builders in Oceania (and globally), to help bring easier accessibility to their solutions.
+
+{% include social-links.html
+  website="https://tokeo.io/" 
+%}
+
+---
+
 ### Vaka Consulting
 Vaka Consulting are a solutions design company, who partner with businesses looking to leverage decentralised technology. They sponsored several Cardano events last year, funding venues, catering and merchandise. They were also the lead logistics coordinator for the Intersect/Cardano booth at the 2024 Australian Crypto Convention.
 
@@ -146,6 +157,9 @@ Blane is an architect exploring the intersection of technology and impact. He fi
 
 ### Gareth Farry (Auckland)
 Creative producer, cultural technologist and law innovator, Gareth is working on the design of plural governance systems, and secure ZK identity on Cardano, Ap3x Fusion and Midnight. His work bridges human rights advocacy and blockchain architecture, modelling a Human Rights DAO and token framework capable of operating across 70+ countries and 10+ million people in Amnesty International’s network. His approach integrates cultural worldviews, common law principles, and decentralised decision-making, using Cardano’s infrastructure to prototype governance that is equitable, transparent, and rooted in the lived realities of diverse communities.  More information is available on his website at [https://www.garethfarry.com/projects](https://www.garethfarry.com/projects){:target="_blank"}.
+
+### Stephen Giderson (Sydney)
+Stephen is the Founder and CEO of Tokeo Labs Ltd, leading innovation in the Cardano ecosystem through [tokeo.io](https://tokeo.io/){:target="_blank"}. He drives advancements in multi-chain swaps, staking, and cross-chain transactions tailored to Cardano's secure architecture, emphasising accessibility and security. Under his leadership, a key contribution to Cardano is the Swift SDK Kit, which simplifies iOS app development for more efficient mobile experiences. Stephen is at the forefront of enhancing Cardano's ecosystem, fostering innovation and mainstream adoption in decentralised technologies.
 
 ### Engie Matene (Ngāti Moerewa | Ngāti Rangi | Te Hikutu - Ngapuhi | Kuki Airani)
 Engie Matene is a technology strategist and cultural advisor working at the intersection of Indigenous governance, digital identity, and blockchain innovation. As a leader within Mātou Collective, Engie bridges community priorities with technical solutions, ensuring that emerging digital systems align with Māori values and advance Indigenous self-determination.
