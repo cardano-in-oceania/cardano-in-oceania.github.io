@@ -13,16 +13,16 @@ The following table summarises the proposed budget for the Cardano in Oceania in
 | Budget Item | Total (ada) | Notes |
 | :---- | ----: | :---- |
 | Business Development Program | 120,000 | Contract an Oceania BD team, run BD bootcamps, partner outreach travel. |
-| Australian Crypto Convention | 120,000 | Sponsorship package, booth branding and furnishing, promotional material. Cardano side event. |
+| Regional Conferences | 160,000 | Sponsorship packages, booth branding and furnishing, promotional material, etc. Cardano launch event at Aus Crypto Con. |
 | Ecosystem Mapping & Activation | 50,000 | Tools, coordinator stipend, surveys for community mapping. |
-| Hackathon | 120,000 | Major Oceania Hackathon – venue, logistics, prizes, marketing, mentorship support, some travel grants for participants, plus sponsorship of industry hackathons |
+| Hackathons | 120,000 | Major Oceania Hackathon – venue, logistics, prizes, marketing, mentorship support, some travel grants for participants. Sponsorship for industry hackathons |
 | Community Events & Workshops | 75,000 | \~20 local in-person events across the region, plus governance/education workshops. |
 | Monthly Town Halls (Virtual) | 5,000 | 12 online sessions, covering platform fees, host stipends, etc. |
 | Marketing & Communications | 60,000 | Community content fund, paid ads, media sponsorships, video production, and PR agency support. |
 | Cardanoの生きがい - Ikigai - Deposit Reimbursement | 100,000 | Fulfilling the wish of the Cardano community to reimburse a lost goverance action deposit. |
 | Contingency | 15,000 | Reserve for unplanned costs. |
 | Administration & Audits | 18,000 | Fund management and reporting. |
-| **Total (2025–2026)** | **683,000** |
+| **Total (2025–2026)** | **723,000** |
 
 This budget reflects a significant investment designed to achieve a step-change in Cardano’s presence in Oceania. We expect to leverage this funding efficiently by also seeking in-kind support and partnerships – for instance, event co-sponsorships could reduce our net costs, and content created by the community often exceeds the value of the modest grants provided.
 

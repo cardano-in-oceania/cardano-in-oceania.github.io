@@ -89,6 +89,15 @@ Mātou Collective develops resilient digital public infrastructure for Māori an
 
 ---
 
+### Salsa Digital
+Salsa Digital is a trusted leader in open digital platforms, working with governments to deliver secure, scalable, and future-ready technology. Founded in Australia, Salsa specialises in open source solutions, digital public infrastructure, and next-generation services that connect people, data, and systems. With deep expertise in government digital infrastructure - spanning digital, data, design systems, and rules-as-code - Salsa helps create open, interoperable ecosystems that empower communities and improve public service delivery. Salsa is also contributing to emerging AI applications for government, helping shape how artificial intelligence can be adopted ethically, securely, and in ways that support digital sovereignty. Through its partnerships and projects, Salsa is committed to supporting decentralised technologies like Cardano to drive transparency, trust, and innovation across the public and private sectors.
+
+{% include social-links.html
+  website="https://salsa.digital/" 
+%}
+
+---
+
 ### TokenFlows
 Tokenflows equips builders with the tools to practice Token Engineering on EUTxO chains like Cardano. Through hands‑on tutorials and simulations—spanning mechanism design, cadCAD modelling, market dynamics, canvases, and more—it translates complex token economics into learnable and deployable systems. Designed for those ready to move beyond theory and prototype with rigour new economic systems.
 
@@ -151,6 +160,9 @@ Nathan is a passionate educator and entrepreneur who has taught Maths, Science, 
 
 ### Scott Collins (Brisbane)
 Scott is a documentary filmmaker who has been deeply engaged with Cardano since 2017. He participated in the Incentivised Testnet (ITN), contributed during the formation of CIP-1694 (Cardano’s governance framework), and engaged in the platform’s governance evolution. He exhibited work as a guest artist at the inaugural Rare conference in 2022 and again in 2023. Scott maintains a keen interest in the future of blockchain and distributed technologies.
+
+### Alfred Deeb (Melbourne)
+Alfred Deeb, CEO & Co-Founder, Salsa Digital is a technology entrepreneur and open digital advocate, passionate about building systems that serve people and communities. Alfred has led Salsa’s growth into a trusted partner for all-of-government digital transformation delivering open source platforms, digital public infrastructure, and innovative solutions in rules-as-code, while also contributing to the responsible adoption of AI in government. With a career spanning multiple successful ventures, Alfred combines commercial acumen with a commitment to openness, transparency, and long-term impact. His vision is driving Salsa to explore how trusted, decentralised ecosystems, like Cardano, can transform how societies govern, collaborate, and innovate.
 
 ### Blane Edwards (Perth)
 Blane is an architect exploring the intersection of technology and impact. He first discovered Cardano in 2017 after watching Charles Hoskinson’s whiteboard video, and was drawn to the project’s vision of building an alternative digital infrastructure for humanity, grounded in values of transparency, inclusivity, accountability, and resilience. Since 2021, Blane has been actively contributing to the Cardano ecosystem, working on projects that reflect a belief in decentralised systems as tools for meaningful and lasting change.
