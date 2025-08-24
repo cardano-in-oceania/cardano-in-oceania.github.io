@@ -10,7 +10,7 @@ permalink: /how/
 ## Budget Overview
 The following table summarises the proposed budget for the Cardano in Oceania initiative, broken down by key components.
 
-| Budget Item | Total (ada) | Notes |
+| Budget Item | Total (ada) | Description |
 | :---- | ----: | :---- |
 | Business Development Program | 120,000 | Contract an Oceania BD team, run BD bootcamps, partner outreach travel. |
 | Regional Conferences | 160,000 | Sponsorship packages, booth branding and furnishing, promotional material, etc. Cardano launch event at Aus Crypto Con. |

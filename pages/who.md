@@ -71,6 +71,15 @@ While we have an enthusiastic group of individuals who are passionate to see Car
 
 ---
 
+### 46 South Stake Pool (46S)
+As the world’s southern most Cardano stake pool, for over 3 years 46 South has been running on bare-metal servers powered entirely by 100% renewable energy, in the far south of New Zealand. But they are more than just infrastructure. A portion of the stake pool's rewards are donated to Pest Free Token, a New Zealand charity dedicated to eradicating introduced pests that threaten native bird species. Delegators to 46S, are not only supporting the Cardano network — they’re investing in a healthier Aotearoa, safeguarding its unique ecosystems, and helping keep birds safe from those annoying predators! The team believe that blockchain technology has the power to create real-world impact — and by aligning technology with local conservation efforts, they aim to bring those possibilities to life in tangible ways.
+
+{% include social-links.html
+  website="https://www.46south.io/" 
+%}
+
+---
+
 ### Executive Portlets
 Since its inception in 2010, Executive Portlets Pty Ltd has been a trusted partner in the project and program management sector, now marking 15 years of dedicated service. Headquartered in Australia, the company focuses on enabling confident and secure sharing of project data, helping professionals streamline operations and enhance collaboration in complex environments.
 
@@ -142,6 +151,19 @@ Venture Centre bridges local ingenuity with global networks to channel capital, 
 
 ---
 
+### VyFinance 
+VyFinance has been a pioneering force within the Cardano ecosystem since 2021. As the second DEX to announce on chain, VyFinance has played an integral role in shaping the foundations of Cardano DeFi, including the building of the first smart-contract to be used as a public product on chain in 2021.
+
+Over the years, VyFinance has delivered a suite of innovative products widely adopted across the ecosystem. These include trading, staking, and vaulting services, large-scale on-chain distribution, token redistribution mechanisms, and dynamic competition and reward systems.
+
+The VYFI ecosystem powers many of Cardano’s leading projects, serving as a DeFi backbone for infrastructure and utility. By prioritising intuitive user interfaces and seamless product integrations, VyFinance continues to make Cardano’s DeFi tools more accessible to both users and builders, driving growth across the blockchain.
+
+{% include social-links.html
+  website="https://vyfi.io/" 
+%}
+
+---
+
 ### yūmi.ai
 yūmi is building modular, multiplayer impact-investing tooling on Cardano. In partnership with NZ government agencies like the Ministry for Culture and Heritage and New Zealand’s Social Investment Agency, yūmi co-designs digital public infrastructure that blends cultural wisdom, social impact, financial and economic coordination.
 
@@ -183,6 +205,11 @@ Corinne is passionate about nature, travel, and creating positive change. With e
 Alex is a senior executive with over 15 years’ experience in SaaS, AI, and blockchain, specialising in driving growth and scale for high-potential businesses. He was part of the APAC founding team of HubSpot, served as Director at ActiveCampaign, and most recently held the role of Global Director at Immutable X, where he led international expansion and strategic partnerships.
 
 Today, Alex channels his expertise into angel investing and ecosystem building. His portfolio includes [Coinstash (CEX)](https://coinstash.com.au/){:target="_blank"}, [Tribe (Large KOL platform)](https://www.tribegroup.co/){:target="_blank"} and over a dozen Angel Investments in Cardano projects. Alex is also the Director at [Mynth](https://www.mynth.ai/){:target="_blank"}, a leading cross-chain solution built on Cardano. Alex’s work bridges commercial growth with emerging technology adoption, helping to connect innovative ventures with the networks, capital, and strategies they need to succeed.
+
+### Steven Ward (Melbourne)
+Steven has over a decade of experience spanning traditional finance and decentralised finance (DeFi). He began his career in traditional markets as a Hedge Fund Trader, specialising in Short-Term Interest Rates (STIRs), before moving into brokerage and analytics. Over seven years, Steven gained comprehensive exposure to trading operations, client management, market analytics, and back-end process management within the Australian regulatory framework.
+
+For the past five years, he has led VyFinance and T-MinusOne, while advising numerous projects across the Cardano ecosystem and beyond. His work focuses on tokenomics design, Web3 business models, and their implementation. Drawing on his trading background and hands-on experience building multiple DeFi ecosystems, Steven has developed a deep mathematical understanding of DeFi structures and their underlying processes.
 
 ### Scott Young (Melbourne)
 Scott is a moral philosopher exploring the foundations of morality through a concept called [The Moral Cube](https://themoralcube.com/){:target="_blank"}. He has been a member of the Cardano community since 2021, and is investigating ways to teach people about, and help them make more informed moral judgements utilizing smart contracts for the last few years.
