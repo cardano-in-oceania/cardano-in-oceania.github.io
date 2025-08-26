@@ -10,6 +10,10 @@ permalink: /who/
 ## Community Leaders
 Whether executing a community initiative like ours or a private business project, strong leadership is important for ensuring that the proposed program of work is effectively coordinated and that there is accountability for delivering against the objectives. Our community leaders have a long-standing reputation in the Cardano ecosystem, both locally and globally, with experience necessary to help achieve our strategic goals.
 
+Our first exercise is to convene partners already listed on this site, map their interests, networks, Cardano adoption goals, contributions and identify value pairs. This ensures every collaboration adds measurable value to the ecosystem.
+
+This Year 1 is a pilot year where we test collaborations, establish value-pairs between partners, and demonstrate to the wider Cardano community that Oceania can deliver results worth scaling and replicating.
+
 ---
 
 ### Jo Allum

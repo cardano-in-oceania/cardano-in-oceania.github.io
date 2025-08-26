@@ -8,6 +8,8 @@ permalink: /how/
 <div class="section" markdown="1">
 
 ## Budget Overview
+This budget supports the Year 1 proof of competency pilot - a focused program designed to demonstrate the Cardano in Oceania community’s cooperation, coordination, and capability, while delivering milestones and laying the groundwork for future scaling.
+
 The following table summarises the proposed budget for the Cardano in Oceania initiative, broken down by key components.
 
 | Budget Item | Total (ada) | Description |
@@ -33,7 +35,7 @@ The spending will be phased over the 12 months, with some front-loading in 2025 
 
 ## Implementation Timeline and Milestones
 
-This timeline outlines the phased rollout of the Cardano in Oceania strategy, incorporating capacity-building, technical activation, community growth, and impact reporting.
+This timeline outlines the phased rollout of the Cardano in Oceania strategy, incorporating capacity-building, technical activation, community growth, and impact reporting. The milestones represent our proof of competency pilot for Year 1. Success here unlocks the case for multi-year scaling.
 
 ### **Q4 2025 – Launch & Foundations**
 - **Public Launch:** Present the Cardano in Oceania strategy at a side event during the Australian Crypto Convention, with regional crypto industry leaders and Cardano stakeholders.
@@ -89,6 +91,19 @@ At least one Cardano-based solution in pilot; Capstone decision finalized; early
 Final report delivered; all program KPIs assessed; continuity strategy supported by community.
 
 Throughout the timeline, monitoring and evaluation will be continuous. Each quarter will have defined targets (number of events held, people reached, etc.), and we will use these to course-correct. The timeline also retains flexibility – for instance, if an opportunity arises to collaborate on a national-level project in 2026, we might reallocate some event budget to support that, as long as it aligns with our objectives.
+
+</div>
+<div class="section" markdown="1">
+
+## Stage Gates
+Our work follows a structured, staged process to ensure accountability and adaptability. At each “gate”, we establish rigorous evidence requirements, demonstrate proof of competency, and decide whether to proceed, accelerate, or make adjustments. We have deliberately scoped Year 1 as a proof of competency pilot to build trust within the Cardano community. This approach respects budget constraints while proving our ability to deliver effectively before scaling up. Each gate demands clear evidence of delivery, adaptation, and learning. The table below outlines these transparent decision points. 
+
+| Gate | Evidence Required | If Pass | If Not Yet |
+| :---- | :---- | :---- | :---- |
+| **Q4-2025 Launch Ready** | BD Lead hired; Fellows enrolled; comms channels live; hackathon venue pencilled | Announce at AusCryptoCon side event | Slip hackathon by 1Q; focus on mapping & partner pre-work |
+| **Q2-2026 Hackathon Done** | ≥100 attendees; 20+ prototypes; mentors & workshops delivered | Spin up incubation; content stories begin | Run “second-chance” dev sprints; deepen mentorship |
+| **Q3-2026 Pilot Ready** | ≥3 projects continuing; ≥3 MOUs; category-balanced partners | Kick off 3 pilots; prep capstone | Extend BD runway; targeted PoCs |
+| **Q4-2026 Continuity** | Final report; governance KPI uplift; clear demand for phase 2 | Proceed with capstone & next-phase proposal | Transition to lower-cost community cadence |
 
 </div>
 <div class="section" markdown="1">

@@ -159,9 +159,10 @@ a {
 .content h1 {
   text-align: center;
   color: $text-muted;
+  font-size: 1.8rem;
 }
 .content h2 {
-  font-size: 1.8rem;
+  font-size: 1.6rem;
   margin: 0 0 1rem;
 }
 .content p {
@@ -217,12 +218,21 @@ a {
 }
 
 /* Home page content section */
-.home-section {
+.home-section-1 {
   width: 60%;
   font-size: 1.1rem;
   padding: 1rem;
   margin: 2rem 20%;
   color: $text-muted;
+}
+
+.home-section-2 {
+  background: #e4ebf0;
+  color: #1e1e1e;
+  width: 60%;
+  font-size: 1.1rem;
+  padding: 1rem;
+  margin: 2rem auto;
 }
 
 /* Section wrapper */
@@ -253,6 +263,9 @@ a {
   .content {
     width: 100%;
     //margin: 4rem auto 2rem;
+    padding: 0.5rem;
+  }
+  .section {
     padding: 1rem;
   }
   .page-toc {
@@ -282,11 +295,47 @@ a {
   .page-wrapper .content {
     flex: 1 1 100%;
   }
-    .home-section {
+  .home-section-1 {
     width: 100%;
     font-size: 1.1rem;
     padding: 1rem;
     margin: 0;
     color: $text-muted;
+  }
+  .home-section-2 {
+    background: #e4ebf0;
+    color: #1e1e1e;
+    width: 100%;
+    font-size: 1.1rem;
+    padding: 1rem;
+    margin: 0;
+}
+}
+
+table {
+  display: block; /* ensures overflow works */
+  width: 100%;
+  border-collapse: collapse;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch; /* smooth scroll on iOS */
+  margin-bottom: 1.5rem;
+  table-layout: auto; /* natural widths on desktop */
+}
+
+table th,
+table td {
+  word-wrap: break-word;
+  white-space: normal;
+}
+
+/* On small screens, enforce fixed layout + smaller font */
+@media screen and (max-width: 600px) {
+  .content table {
+    table-layout: fixed; /* equal column widths for mobile */
+    font-size: 12px;
+  }
+  .content table th,
+  .content table td {
+    padding: 6px;
   }
 }
