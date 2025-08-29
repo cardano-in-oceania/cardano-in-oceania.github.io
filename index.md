@@ -26,11 +26,11 @@ We respectfully submit this strategy for funding consideration, confident that i
 
 ## Executive Summary
 
-Cardano Oceania’s work is designed as a proof of competence and each action builds on the next. The grid below shows how our activities connect to measurable outcomes, with clear proof points and accountability at every stage. The pages of this website provide detail on each element, the community that will contribute and are committed to the growth of our region and how the project will be administered.
+The work programme we've outlined on this site has been designed to support the members of our community to build on the volunteer contributions they've made over the last 5+ years. It launches a professional collaboration that will market Cardano in Oceania as part of a multi-year strategy. The programme covers the first, launch year, through which we will demonstrate our capability, hit clear milestones, and establish a trusted foundation for Cardano’s growth in our region. Future phases will scale on the strength of what we prove in this first year.
 
-This initiative begins with a Year 1 "proof of competency" pilot. Our aim is not to deliver everything at once, but to demonstrate capability, hit clear milestones, and establish a trusted foundation for Cardano’s growth in Oceania. Future phases will scale on the strength of what we prove in this first year.
+The grid below shows how the various actions and artefacts relate to the marketing funnel at each level of engagement. The rest of this site provides timelines, stage gates and detailed information about the programme of work for which we seek treasury funding.
 
-| Stage | What we do (site-aligned) | Targets / KPIs (from site) | Proof / Artifacts | Accountable |
+| Engagement Phase | What we do | Targets / KPIs | Proof / Artifacts | Accountable |
 | :---- | :---- | :---- | :---- | :---- |
 | Awareness → Interest | **Integrated Marketing & Storytelling** | ≥48 content pieces (2 yrs), >500k cumulative impressions, ≥5 media mentions | Content calendar, analytics dashboards, media clippings | Comms lead & community champions.  |
 | Interest → Consideration | **Ecosystem Mapping & Activation** | Publish **Map v1.0** (≥100 people/orgs), ≥10 new collaborations from matchmaking | Live interactive map & tagged directory, quarterly “roundtable” notes | Ecosystem coordinator.  |

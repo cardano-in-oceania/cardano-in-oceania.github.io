@@ -8,23 +8,23 @@ permalink: /how/
 <div class="section" markdown="1">
 
 ## Budget Overview
-This budget supports the Year 1 proof of competency pilot - a focused program designed to demonstrate the Cardano in Oceania community’s cooperation, coordination, and capability, while delivering milestones and laying the groundwork for future scaling.
+This budget supports the Year 1 activation pilot - a focused program designed to demonstrate the Cardano in Oceania community’s cooperation, coordination, and capability, while delivering milestones and laying the groundwork for future scaling.
 
 The following table summarises the proposed budget for the Cardano in Oceania initiative, broken down by key components.
 
 | Budget Item | Total (ada) | Description |
 | :---- | ----: | :---- |
-| Business Development Program | 120,000 | Contract an Oceania BD team, run BD bootcamps, partner outreach travel. |
-| Regional Conferences | 160,000 | Sponsorship packages, booth branding and furnishing, promotional material, etc. Cardano launch event at Aus Crypto Con. |
-| Ecosystem Mapping & Activation | 50,000 | Tools, coordinator stipend, surveys for community mapping. |
+| Business Development Program | 130,000 | Contract an Oceania BD team, run BD bootcamps, partner outreach travel. |
+| Regional Conferences | 175,000 | Sponsorship packages, booth branding and furnishing, promotional material, etc. Launch/side event at Aus Crypto Con. |
+| Ecosystem Mapping & Activation | 60,000 | Tools, coordinator stipend, surveys for community mapping. |
 | Hackathons | 120,000 | Major Oceania Hackathon – venue, logistics, prizes, marketing, mentorship support, some travel grants for participants. Sponsorship for industry hackathons |
 | Community Events & Workshops | 75,000 | \~20 local in-person events across the region, plus governance/education workshops. |
 | Monthly Town Halls (Virtual) | 5,000 | 12 online sessions, covering platform fees, host stipends, etc. |
-| Marketing & Communications | 60,000 | Community content fund, paid ads, media sponsorships, video production, and PR agency support. |
+| Marketing & Communications | 80,000 | Community content fund, paid ads, media sponsorships, video production, and PR agency support. |
 | Cardanoの生きがい - Ikigai - Deposit Reimbursement | 100,000 | Fulfilling the wish of the Cardano community to reimburse a lost goverance action deposit. |
 | Contingency | 15,000 | Reserve for unplanned costs. |
 | Administration & Audits | 18,000 | Fund management and reporting. |
-| **Total (2025–2026)** | **723,000** |
+| **Total (2025–2026)** | **778,000** |
 
 This budget reflects a significant investment designed to achieve a step-change in Cardano’s presence in Oceania. We expect to leverage this funding efficiently by also seeking in-kind support and partnerships – for instance, event co-sponsorships could reduce our net costs, and content created by the community often exceeds the value of the modest grants provided.
 
@@ -35,7 +35,7 @@ The spending will be phased over the 12 months, with some front-loading in 2025 
 
 ## Implementation Timeline and Milestones
 
-This timeline outlines the phased rollout of the Cardano in Oceania strategy, incorporating capacity-building, technical activation, community growth, and impact reporting. The milestones represent our proof of competency pilot for Year 1. Success here unlocks the case for multi-year scaling.
+This timeline outlines the phased rollout of the Cardano in Oceania strategy, incorporating capacity-building, technical activation, community growth, and impact reporting. Success here unlocks the case for multi-year scaling.
 
 ### **Q4 2025 – Launch & Foundations**
 - **Public Launch:** Present the Cardano in Oceania strategy at a side event during the Australian Crypto Convention, with regional crypto industry leaders and Cardano stakeholders.
@@ -96,7 +96,7 @@ Throughout the timeline, monitoring and evaluation will be continuous. Each quar
 <div class="section" markdown="1">
 
 ## Stage Gates
-Our work follows a structured, staged process to ensure accountability and adaptability. At each “gate”, we establish rigorous evidence requirements, demonstrate proof of competency, and decide whether to proceed, accelerate, or make adjustments. We have deliberately scoped Year 1 as a proof of competency pilot to build trust within the Cardano community. This approach respects budget constraints while proving our ability to deliver effectively before scaling up. Each gate demands clear evidence of delivery, adaptation, and learning. The table below outlines these transparent decision points. 
+Our work follows a structured, staged process to ensure accountability and adaptability. At each “gate”, we establish rigorous evidence requirements, demonstrate achievement, and decide whether to proceed, accelerate, or make adjustments. We have deliberately scoped Year 1 as an activation pilot to build trust within the Cardano community. This approach respects budget constraints while proving our ability to deliver effectively before scaling up. Each gate demands clear evidence of delivery, adaptation, and learning. The table below outlines these transparent decision points.
 
 | Gate | Evidence Required | If Pass | If Not Yet |
 | :---- | :---- | :---- | :---- |
