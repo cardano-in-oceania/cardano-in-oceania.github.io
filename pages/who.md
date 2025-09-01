@@ -84,6 +84,15 @@ As the world’s southern most Cardano stake pool, for over 3 years 46 South has
 
 ---
 
+### ECO Pool – The sustainable Stake Pool (ECO)
+ECO Pool is a New Zealand-based, mission-driven Cardano stake pool operated by Mat, an engineer, Cardano enthusiast, and sustainability advocate. Running on 100% renewable energy, ECO Pool supports a variety of environmental charities working to sustain and regenerate nature and biodiversity. It blends reliable staking performance with real-world impact - advocating for a carbon-neutral future and showing how blockchain can regenerate, not just disrupt.
+
+{% include social-links.html
+  website="https://ecopool.io/" 
+%}
+
+---
+
 ### Executive Portlets
 Since its inception in 2010, Executive Portlets Pty Ltd has been a trusted partner in the project and program management sector, now marking 15 years of dedicated service. Headquartered in Australia, the company focuses on enabling confident and secure sharing of project data, helping professionals streamline operations and enhance collaboration in complex environments.
 

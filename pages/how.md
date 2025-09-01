@@ -98,12 +98,12 @@ Throughout the timeline, monitoring and evaluation will be continuous. Each quar
 ## Stage Gates
 Our work follows a structured, staged process to ensure accountability and adaptability. At each “gate”, we establish rigorous evidence requirements, demonstrate achievement, and decide whether to proceed, accelerate, or make adjustments. We have deliberately scoped Year 1 as an activation pilot to build trust within the Cardano community. This approach respects budget constraints while proving our ability to deliver effectively before scaling up. Each gate demands clear evidence of delivery, adaptation, and learning. The table below outlines these transparent decision points.
 
-| Gate | Evidence Required | If Pass | If Not Yet |
+| Gate | Activities Complete | If Done | If Not Yet |
 | :---- | :---- | :---- | :---- |
-| **Q4-2025 Launch** | BD Lead hired; Fellows enrolled; comms channels live (from Awareness stage); hackathon venue pencilled; initial map v1.0 published (from Interest stage) | Kick off scaled marketing of hackathon; begin events/workshops (Consideration stage) | Slip hackathon by 1Q; focus on mapping & partner pre-work; amplify content marketing to build impressions. |
-| **Q2-2026 Hackathon** | ≥100 attendees; 20+ prototypes; mentors + workshops delivered (from Qualified stage); ≥3 MOUs in pipeline (from Intent stage) | Spin up incubation; content stories begin (Build → Pilot transition); launch pilot marketing | Run “second-chance” dev sprints; deepen mentorship; revisit ecosystem mapping for more collaborations |
-| **Q3-2026 Partnership Pilots** | ≥3 projects continuing; ≥3 MOUs; category-balanced partners (from Pilot stage dependencies) | Kick off 3 pilots; prep capstone; marketing push for adoption stories | Extend BD runway; targeted PoCs; loop back to events for more intent generation |
-| **Q4-2026 Continuity** | Final report; governance KPI uplift; clear demand for phase 2 (tied to Adoption KPIs) | Proceed with capstone & next-phase proposal; sustain marketing via community cadence | Transition to lower-cost community cadence; reinforce early stages (e.g., content refresh) for phase 2 relaunch |
+| **Q4 2025** | BD Lead hired; Fellows enrolled; comms channels live (from Awareness stage); hackathon venue pencilled; initial map v1.0 published (from Interest stage) | Kick off scaled marketing of hackathon; begin events/workshops (Consideration stage) | Slip hackathon by 1Q; focus on mapping & partner pre-work; amplify content marketing to build impressions. |
+| **Q2 2026** | ≥100 attendees; 20+ prototypes; mentors + workshops delivered (from Qualified stage); ≥3 MOUs in pipeline (from Intent stage) | Spin up incubation; content stories begin (Build → Pilot transition); launch pilot marketing | Run “second-chance” dev sprints; deepen mentorship; revisit ecosystem mapping for more collaborations |
+| **Q3 2026** | ≥3 projects continuing; ≥3 MOUs; category-balanced partners (from Pilot stage dependencies) | Kick off 3 pilots; prep capstone; marketing push for adoption stories | Extend BD runway; targeted PoCs; loop back to events for more intent generation |
+| **Q4 2026** | Final report; governance KPI uplift; clear demand for phase 2 (tied to Adoption KPIs) | Proceed with capstone & next-phase proposal; sustain marketing via community cadence | Transition to lower-cost community cadence; reinforce early stages (e.g., content refresh) for phase 2 relaunch |
 
 </div>
 <div class="section" markdown="1">
