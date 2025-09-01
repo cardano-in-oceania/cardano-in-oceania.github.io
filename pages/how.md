@@ -54,7 +54,7 @@ Strategy launched; BD team operational; Bootcamp 1 complete; hackathon planning 
 - **Hackathon Activation:** Finalize logistics for the Q2 Hackathon — open registration, begin regional marketing, and confirm mentors and technical support.
 - **Pre-Hackathon Workshops:** Host 2–3 technical onboarding sessions (e.g. in Auckland, Sydney) to familiarize newcomers with Cardano dev tools.
 - **Ecosystem Engagement:** Hold Oceania Ecosystem Roundtable #1 to connect projects and surface collaboration opportunities.
-- **Content Build-up:** Launch the first Cardano Oceania content series (e.g. blog interviews with BD Fellows or event recaps).
+- **Content Build-up:** Launch the first Cardano in Oceania content series (e.g. blog interviews with BD Fellows or event recaps).
 - **Governance Prep:** Schedule and promote upcoming governance workshops on Catalyst, CIPs, and constitutional engagement.
 
 **Milestone:**  
@@ -100,16 +100,16 @@ Our work follows a structured, staged process to ensure accountability and adapt
 
 | Gate | Evidence Required | If Pass | If Not Yet |
 | :---- | :---- | :---- | :---- |
-| **Q4-2025 Launch Ready** | BD Lead hired; Fellows enrolled; comms channels live (from Awareness stage); hackathon venue pencilled; initial map v1.0 published (from Interest stage) | Kick off scaled marketing of hackathon; begin events/workshops (Consideration stage) | Slip hackathon by 1Q; focus on mapping & partner pre-work; amplify content marketing to build impressions. |
-| **Q2-2026 Hackathon Done** | ≥100 attendees; 20+ prototypes; mentors + workshops delivered (from Qualified stage); ≥3 MOUs in pipeline (from Intent stage) | Spin up incubation; content stories begin (Build → Pilot transition); launch pilot marketing | Run “second-chance” dev sprints; deepen mentorship; revisit ecosystem mapping for more collaborations |
-| **Q3-2026 Pilot Ready** | ≥3 projects continuing; ≥3 MOUs; category-balanced partners (from Pilot stage dependencies) | Kick off 3 pilots; prep capstone; marketing push for adoption stories | Extend BD runway; targeted PoCs; loop back to events for more intent generation |
+| **Q4-2025 Launch** | BD Lead hired; Fellows enrolled; comms channels live (from Awareness stage); hackathon venue pencilled; initial map v1.0 published (from Interest stage) | Kick off scaled marketing of hackathon; begin events/workshops (Consideration stage) | Slip hackathon by 1Q; focus on mapping & partner pre-work; amplify content marketing to build impressions. |
+| **Q2-2026 Hackathon** | ≥100 attendees; 20+ prototypes; mentors + workshops delivered (from Qualified stage); ≥3 MOUs in pipeline (from Intent stage) | Spin up incubation; content stories begin (Build → Pilot transition); launch pilot marketing | Run “second-chance” dev sprints; deepen mentorship; revisit ecosystem mapping for more collaborations |
+| **Q3-2026 Partnership Pilots** | ≥3 projects continuing; ≥3 MOUs; category-balanced partners (from Pilot stage dependencies) | Kick off 3 pilots; prep capstone; marketing push for adoption stories | Extend BD runway; targeted PoCs; loop back to events for more intent generation |
 | **Q4-2026 Continuity** | Final report; governance KPI uplift; clear demand for phase 2 (tied to Adoption KPIs) | Proceed with capstone & next-phase proposal; sustain marketing via community cadence | Transition to lower-cost community cadence; reinforce early stages (e.g., content refresh) for phase 2 relaunch |
 
 </div>
 <div class="section" markdown="1">
 
 ## Key Performance Indicators (KPIs) & Value Creation
-To gauge the success and impact of the Cardano Oceania 2025–26 strategy, we have identified clear KPIs across all program dimensions:
+To gauge the success and impact of the Cardano in Oceania 2025–26 strategy, we have identified clear KPIs across all program dimensions:
 
 * **Ecosystem Growth:** Community size and activity – Double the number of active Cardano community members in Oceania (measured via meetup attendance, local Telegram/Discord group sizes, etc.). Grow the number of Cardano wallets or on-chain usage in Oceania by 50% over two years (as a proxy, track growth in transactions originating from Oceania IPs or participation in Cardano-based dApps from the region).
 
